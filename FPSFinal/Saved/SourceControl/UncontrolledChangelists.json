@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/redsl/Documents/YakuzaLevelProject/YakuzaLevel/FPSFinal/Content/YakuzaMain.umap",
+				"E:/UE_5.4/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
 				"C:/Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaEncounter/Content/AdvancedLocomotionV4/Data/Structs/ALS_ComponentAndTransform.uasset",
 				"C:/Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaEncounter/Content/AdvancedLocomotionV4/Blueprints/Libraries/ALS_MacroLibrary.uasset",
 				"C:/Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaEncounter/Content/AdvancedLocomotionV4/Blueprints/CharacterLogic/AI/ALS_BB_AICharacter.uasset",
