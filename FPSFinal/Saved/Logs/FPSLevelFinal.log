@@ -4683,3 +4683,553 @@ Please see Output Log for details.
 [2025.03.28-18.51.55:382][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
 [2025.03.28-18.51.55:394][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
 [2025.03.28-18.51.55:484][470]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.03.28-18.52.30:308][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.03.28-18.52.30:365][363]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/YakuzaMain_Auto8
+[2025.03.28-18.52.30:366][363]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/YakuzaMain_Auto892C1388745199AE30258479780FFAEA0.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/YakuzaMain_Auto8.umap'
+[2025.03.28-18.52.30:368][363]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/YakuzaMain_Auto8.umap is in the /Temp path, will not scan.
+[2025.03.28-18.52.30:369][363]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/YakuzaMain' took 0.084
+[2025.03.28-18.52.30:369][363]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.084
+[2025.03.28-18.52.30:370][363]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AdvancedLocomotionV4/Props/Materials/M_Prop] ([1] browsable assets)...
+[2025.03.28-18.52.30:370][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedLocomotionV4/Props/Materials/M_Prop]
+[2025.03.28-18.52.30:371][363]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Props/Materials/M_Prop_Auto8
+[2025.03.28-18.52.30:372][363]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/M_Prop_Auto8FFAFE72A4754AA0DCC7BA0BE077260E1.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/AdvancedLocomotionV4/Props/Materials/M_Prop_Auto8.uasset'
+[2025.03.28-18.52.30:373][363]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AdvancedLocomotionV4/Props/Materials/M_Prop_Torch3] ([1] browsable assets)...
+[2025.03.28-18.52.30:373][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedLocomotionV4/Props/Materials/M_Prop_Torch3]
+[2025.03.28-18.52.30:374][363]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Props/Materials/M_Prop_Torch3_Auto8
+[2025.03.28-18.52.30:375][363]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/M_Prop_Torch3_Auto8ABFA48E34EF06510B18CB5A54E0646AB.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/AdvancedLocomotionV4/Props/Materials/M_Prop_Torch3_Auto8.uasset'
+[2025.03.28-18.52.30:376][363]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ClayPots/Materials/Master/M_Pot] ([1] browsable assets)...
+[2025.03.28-18.52.30:376][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/ClayPots/Materials/Master/M_Pot]
+[2025.03.28-18.52.30:382][363]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ClayPots/Materials/Master/M_Pot_Auto8
+[2025.03.28-18.52.30:382][363]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/M_Pot_Auto8132164254BA03470968E2E96880E7722.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/ClayPots/Materials/Master/M_Pot_Auto8.uasset'
+[2025.03.28-18.52.30:383][363]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ClayPots/Demo/Materials/Master/M_Curve_Wall] ([1] browsable assets)...
+[2025.03.28-18.52.30:383][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/ClayPots/Demo/Materials/Master/M_Curve_Wall]
+[2025.03.28-18.52.30:386][363]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ClayPots/Demo/Materials/Master/M_Curve_Wall_Auto8
+[2025.03.28-18.52.30:386][363]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/M_Curve_Wall_Auto87E2C721D4EC7AE6D1939E5AC9C3A87A7.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/ClayPots/Demo/Materials/Master/M_Curve_Wall_Auto8.uasset'
+[2025.03.28-18.52.30:387][363]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FinalFloorAssets/mat/source/Doormate1_Inst] ([1] browsable assets)...
+[2025.03.28-18.52.30:387][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/FinalFloorAssets/mat/source/Doormate1_Inst]
+[2025.03.28-18.52.30:388][363]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FinalFloorAssets/mat/source/Doormate1_Inst_Auto8
+[2025.03.28-18.52.30:389][363]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Doormate1_Inst_Auto81F0F99CE4F403D27261D53BB5E1A52B2.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/FinalFloorAssets/mat/source/Doormate1_Inst_Auto8.uasset'
+[2025.03.28-18.52.30:389][363]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FinalFloorAssets/mat/source/Doormate1] ([1] browsable assets)...
+[2025.03.28-18.52.30:390][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/FinalFloorAssets/mat/source/Doormate1]
+[2025.03.28-18.52.30:392][363]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FinalFloorAssets/mat/source/Doormate1_Auto8
+[2025.03.28-18.52.30:392][363]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Doormate1_Auto829A29CCF4E5D6EECE3B979BACB157DB9.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/FinalFloorAssets/mat/source/Doormate1_Auto8.uasset'
+[2025.03.28-18.52.30:394][363]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FinalFloorAssets/textures/tew_gong2_tga_Mat_Inst] ([1] browsable assets)...
+[2025.03.28-18.52.30:394][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/FinalFloorAssets/textures/tew_gong2_tga_Mat_Inst]
+[2025.03.28-18.52.30:395][363]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FinalFloorAssets/textures/tew_gong2_tga_Mat_Inst_Auto8
+[2025.03.28-18.52.30:395][363]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/tew_gong2_tga_Mat_Inst_Auto8DB3498CC48ABB5A9D4EC8EA3F4E1FE9D.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/FinalFloorAssets/textures/tew_gong2_tga_Mat_Inst_Auto8.uasset'
+[2025.03.28-18.52.30:396][363]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FinalFloorAssets/textures/tew_gong2_tga_Mat] ([1] browsable assets)...
+[2025.03.28-18.52.30:396][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/FinalFloorAssets/textures/tew_gong2_tga_Mat]
+[2025.03.28-18.52.30:398][363]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FinalFloorAssets/textures/tew_gong2_tga_Mat_Auto8
+[2025.03.28-18.52.30:398][363]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/tew_gong2_tga_Mat_Auto825BA532245E1C94CC1CE6B837CAD71E0.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/FinalFloorAssets/textures/tew_gong2_tga_Mat_Auto8.uasset'
+[2025.03.28-18.52.30:399][363]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FinalFloorAssets/textures/tew_lightwood9_tga_Mat_Inst] ([1] browsable assets)...
+[2025.03.28-18.52.30:399][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/FinalFloorAssets/textures/tew_lightwood9_tga_Mat_Inst]
+[2025.03.28-18.52.30:401][363]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FinalFloorAssets/textures/tew_lightwood9_tga_Mat_Inst_Auto8
+[2025.03.28-18.52.30:401][363]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/tew_lightwood9_tga_Mat_Inst_AutoE3226100419E7E35A4937EB8992564CE.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/FinalFloorAssets/textures/tew_lightwood9_tga_Mat_Inst_Auto8.uasset'
+[2025.03.28-18.52.30:402][363]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FinalFloorAssets/textures/tew_lightwood9_tga_Mat] ([1] browsable assets)...
+[2025.03.28-18.52.30:402][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/FinalFloorAssets/textures/tew_lightwood9_tga_Mat]
+[2025.03.28-18.52.30:404][363]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FinalFloorAssets/textures/tew_lightwood9_tga_Mat_Auto8
+[2025.03.28-18.52.30:404][363]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/tew_lightwood9_tga_Mat_Auto8505A71C5448F9B0D77A193B6912F2228.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/FinalFloorAssets/textures/tew_lightwood9_tga_Mat_Auto8.uasset'
+[2025.03.28-18.52.30:405][363]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FinalFloorAssets/textures/tew_pattern_tga_Mat_Inst] ([1] browsable assets)...
+[2025.03.28-18.52.30:405][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/FinalFloorAssets/textures/tew_pattern_tga_Mat_Inst]
+[2025.03.28-18.52.30:406][363]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FinalFloorAssets/textures/tew_pattern_tga_Mat_Inst_Auto8
+[2025.03.28-18.52.30:406][363]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/tew_pattern_tga_Mat_Inst_Auto8232FD2794A0B0BD77C0D349E71F32E28.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/FinalFloorAssets/textures/tew_pattern_tga_Mat_Inst_Auto8.uasset'
+[2025.03.28-18.52.30:407][363]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FinalFloorAssets/textures/tew_pattern_tga_Mat] ([1] browsable assets)...
+[2025.03.28-18.52.30:407][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/FinalFloorAssets/textures/tew_pattern_tga_Mat]
+[2025.03.28-18.52.30:409][363]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FinalFloorAssets/textures/tew_pattern_tga_Mat_Auto8
+[2025.03.28-18.52.30:409][363]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/tew_pattern_tga_Mat_Auto8482712E346DF92522D4E4E835D3B5D7C.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/FinalFloorAssets/textures/tew_pattern_tga_Mat_Auto8.uasset'
+[2025.03.28-18.52.30:411][363]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelLayoutImages/japanese-aesthetic-red-dragonymbol-kanji-japan-tattoo-art-ayoub-alessa-transparent_Mat_Inst] ([1] browsable assets)...
+[2025.03.28-18.52.30:411][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelLayoutImages/japanese-aesthetic-red-dragonymbol-kanji-japan-tattoo-art-ayoub-alessa-transparent_Mat_Inst]
+[2025.03.28-18.52.30:412][363]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelLayoutImages/japanese-aesthetic-red-dragonymbol-kanji-japan-tattoo-art-ayoub-alessa-transparent_Mat_Inst_Auto8
+[2025.03.28-18.52.30:412][363]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/japanese-aesthetic-red-dragonymbDF377B0A47EA1D3E7E47E7A78942C596.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/LevelLayoutImages/japanese-aesthetic-red-dragonymbol-kanji-japan-tattoo-art-ayoub-alessa-transparent_Mat_Inst_Auto8.uasset'
+[2025.03.28-18.52.30:413][363]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelLayoutImages/japanese-aesthetic-red-dragonymbol-kanji-japan-tattoo-art-ayoub-alessa-transparent_Mat] ([1] browsable assets)...
+[2025.03.28-18.52.30:413][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelLayoutImages/japanese-aesthetic-red-dragonymbol-kanji-japan-tattoo-art-ayoub-alessa-transparent_Mat]
+[2025.03.28-18.52.30:415][363]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelLayoutImages/japanese-aesthetic-red-dragonymbol-kanji-japan-tattoo-art-ayoub-alessa-transparent_Mat_Auto8
+[2025.03.28-18.52.30:415][363]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/japanese-aesthetic-red-dragonymb99A97B3D453D8A511D40E3A9FC9EE454.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/LevelLayoutImages/japanese-aesthetic-red-dragonymbol-kanji-japan-tattoo-art-ayoub-alessa-transparent_Mat_Auto8.uasset'
+[2025.03.28-18.52.30:416][363]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ClayPots/Materials/LowPoly/MI_Pot_04] ([1] browsable assets)...
+[2025.03.28-18.52.30:416][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/ClayPots/Materials/LowPoly/MI_Pot_04]
+[2025.03.28-18.52.30:418][363]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ClayPots/Materials/LowPoly/MI_Pot_04_Auto8
+[2025.03.28-18.52.30:418][363]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/MI_Pot_04_Auto88B4488FC4C010CE37CB6129D976D0168.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/ClayPots/Materials/LowPoly/MI_Pot_04_Auto8.uasset'
+[2025.03.28-18.52.30:419][363]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/City/Dtla_Orbit_u2_v1] ([1] browsable assets)...
+[2025.03.28-18.52.30:419][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Dtla_Orbit_u2_v1]
+[2025.03.28-18.52.30:420][363]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/City/Dtla_Orbit_u2_v1_Auto8
+[2025.03.28-18.52.30:420][363]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Dtla_Orbit_u2_v1_Auto8729CFE5C4C88AD885AE35C9BC5913297.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/City/Dtla_Orbit_u2_v1_Auto8.uasset'
+[2025.03.28-18.52.30:421][363]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/City/M_Dtla_Orbit_Dtla_Orbit_u1_v1_BEE38F7F49FA5C0EEE7DED802C4B589C] ([2] browsable assets)...
+[2025.03.28-18.52.30:421][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/M_Dtla_Orbit_Dtla_Orbit_u1_v1_BEE38F7F49FA5C0EEE7DED802C4B589C]
+[2025.03.28-18.52.30:423][363]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/City/M_Dtla_Orbit_Dtla_Orbit_u1_v1_BEE38F7F49FA5C0EEE7DED802C4B589C_Auto8
+[2025.03.28-18.52.30:423][363]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/M_Dtla_Orbit_Dtla_Orbit_u1_v1_BE6C502EF5490639A4038FA5ADBA79FC1F.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/City/M_Dtla_Orbit_Dtla_Orbit_u1_v1_BEE38F7F49FA5C0EEE7DED802C4B589C_Auto8.uasset'
+[2025.03.28-18.52.30:424][363]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/City/M_Dtla_Orbit_Dtla_Orbit_u2_v1_BEE38F7F49FA5C0EEE7DED802C4B589C] ([2] browsable assets)...
+[2025.03.28-18.52.30:424][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/M_Dtla_Orbit_Dtla_Orbit_u2_v1_BEE38F7F49FA5C0EEE7DED802C4B589C]
+[2025.03.28-18.52.30:427][363]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/City/M_Dtla_Orbit_Dtla_Orbit_u2_v1_BEE38F7F49FA5C0EEE7DED802C4B589C_Auto8
+[2025.03.28-18.52.30:427][363]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/M_Dtla_Orbit_Dtla_Orbit_u2_v1_BE4D8969B04BB1A55BAFC13182EAE6D2A6.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/City/M_Dtla_Orbit_Dtla_Orbit_u2_v1_BEE38F7F49FA5C0EEE7DED802C4B589C_Auto8.uasset'
+[2025.03.28-18.52.30:428][363]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/City/M_Dtla_Orbit_Dtla_Orbit_u3_v1_BEE38F7F49FA5C0EEE7DED802C4B589C] ([2] browsable assets)...
+[2025.03.28-18.52.30:428][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/M_Dtla_Orbit_Dtla_Orbit_u3_v1_BEE38F7F49FA5C0EEE7DED802C4B589C]
+[2025.03.28-18.52.30:430][363]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/City/M_Dtla_Orbit_Dtla_Orbit_u3_v1_BEE38F7F49FA5C0EEE7DED802C4B589C_Auto8
+[2025.03.28-18.52.30:430][363]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/M_Dtla_Orbit_Dtla_Orbit_u3_v1_BE221CE6B3453F743BE7E48983293F4BCD.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/City/M_Dtla_Orbit_Dtla_Orbit_u3_v1_BEE38F7F49FA5C0EEE7DED802C4B589C_Auto8.uasset'
+[2025.03.28-18.52.30:431][363]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/City/M_Dtla_Orbit_Dtla_Orbit_u1_v2_BEE38F7F49FA5C0EEE7DED802C4B589C] ([2] browsable assets)...
+[2025.03.28-18.52.30:431][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/M_Dtla_Orbit_Dtla_Orbit_u1_v2_BEE38F7F49FA5C0EEE7DED802C4B589C]
+[2025.03.28-18.52.30:432][363]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/City/M_Dtla_Orbit_Dtla_Orbit_u1_v2_BEE38F7F49FA5C0EEE7DED802C4B589C_Auto8
+[2025.03.28-18.52.30:433][363]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/M_Dtla_Orbit_Dtla_Orbit_u1_v2_BE96BF8BE3418E5392734BA6BF08FC9144.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/City/M_Dtla_Orbit_Dtla_Orbit_u1_v2_BEE38F7F49FA5C0EEE7DED802C4B589C_Auto8.uasset'
+[2025.03.28-18.52.30:433][363]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/City/M_Dtla_Orbit_Dtla_Orbit_u2_v2_BEE38F7F49FA5C0EEE7DED802C4B589C] ([2] browsable assets)...
+[2025.03.28-18.52.30:434][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/M_Dtla_Orbit_Dtla_Orbit_u2_v2_BEE38F7F49FA5C0EEE7DED802C4B589C]
+[2025.03.28-18.52.30:435][363]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/City/M_Dtla_Orbit_Dtla_Orbit_u2_v2_BEE38F7F49FA5C0EEE7DED802C4B589C_Auto8
+[2025.03.28-18.52.30:435][363]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/M_Dtla_Orbit_Dtla_Orbit_u2_v2_BED3757AD2420D2C55F37EC5BCB405108D.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/City/M_Dtla_Orbit_Dtla_Orbit_u2_v2_BEE38F7F49FA5C0EEE7DED802C4B589C_Auto8.uasset'
+[2025.03.28-18.52.30:436][363]LogFileHelpers: Auto-saving content packages took 0.068
+[2025.03.28-18.56.21:851][ 96]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9567.483398
+[2025.03.28-18.56.22:851][ 99]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.28-18.56.22:851][ 99]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9568.149414, Update Interval: 348.841217
+[2025.03.28-19.03.06:262][309]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9971.820312
+[2025.03.28-19.03.07:263][312]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.28-19.03.07:263][312]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9972.486328, Update Interval: 351.390106
+[2025.03.28-19.06.18:999][293]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/City/Dtla_Orbit.Dtla_Orbit
+[2025.03.28-19.06.19:042][293]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_19'.
+[2025.03.28-19.09.46:959][ 31]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10372.428711
+[2025.03.28-19.09.47:960][ 34]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.28-19.09.47:960][ 34]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10373.094727, Update Interval: 300.415649
+[2025.03.28-19.14.11:716][826]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Content/City/uploads_files_2711294_manhattan.fbx)
+[2025.03.28-19.14.11:741][826]LogFbx: Loading FBX Scene from C:/Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Content/City/uploads_files_2711294_manhattan.fbx
+[2025.03.28-19.14.11:862][826]LogFbx: FBX Scene Loaded Succesfully
+[2025.03.28-19.14.13:355][826]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.03.28-19.14.13:431][826]LogStaticMesh: Built static mesh [0.00s] /Game/City/uploads_files_2711294_manhattan_EXPORT_GOOGLE_SAT_WM.uploads_files_2711294_manhattan_EXPORT_GOOGLE_SAT_WM
+[2025.03.28-19.14.19:543][826]LogStaticMesh: Built static mesh [1.48s] /Game/City/uploads_files_2711294_manhattan_building.uploads_files_2711294_manhattan_building
+[2025.03.28-19.14.20:971][827]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-19.14.21:068][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.03.28-19.14.21:084][827]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.176 ms (total: 12.8 sec)
+[2025.03.28-19.14.24:095][999]AssetReimport: Importing new asset /Game/City/uploads_files_2711294_manhattan.
+[2025.03.28-19.14.26:584][148]LogSlate: Window 'Message Log' being destroyed
+[2025.03.28-19.14.26:593][148]LogSlate: Window 'Message Log' being destroyed
+[2025.03.28-19.15.30:014][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.03.28-19.15.30:016][627]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/YakuzaMain' took 0.032
+[2025.03.28-19.15.30:016][627]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/City/Material_006] ([1] browsable assets)...
+[2025.03.28-19.15.45:941][627]OBJ SavePackage:     Rendered thumbnail for [Material /Game/City/Material_006.Material_006]
+[2025.03.28-19.15.45:941][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Material_006]
+[2025.03.28-19.15.45:943][627]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/City/Material_006_Auto9
+[2025.03.28-19.15.45:943][627]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Material_006_Auto9A1C9FA2544987A2D3A68AAA2F46AD9EC.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/City/Material_006_Auto9.uasset'
+[2025.03.28-19.15.45:945][627]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/City/uploads_files_2711294_manhattan_EXPORT_GOOGLE_SAT_WM] ([1] browsable assets)...
+[2025.03.28-19.15.45:959][627]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/City/uploads_files_2711294_manhattan_EXPORT_GOOGLE_SAT_WM.uploads_files_2711294_manhattan_EXPORT_GOOGLE_SAT_WM]
+[2025.03.28-19.15.45:959][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/uploads_files_2711294_manhattan_EXPORT_GOOGLE_SAT_WM]
+[2025.03.28-19.15.45:962][627]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/City/uploads_files_2711294_manhattan_EXPORT_GOOGLE_SAT_WM_Auto9
+[2025.03.28-19.15.45:962][627]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/uploads_files_2711294_manhattan_3A834D774DDD687D225FC99AF9B8B8B0.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/City/uploads_files_2711294_manhattan_EXPORT_GOOGLE_SAT_WM_Auto9.uasset'
+[2025.03.28-19.15.45:963][627]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/City/rastMat] ([1] browsable assets)...
+[2025.03.28-19.15.46:017][627]OBJ SavePackage:     Rendered thumbnail for [Material /Game/City/rastMat.rastMat]
+[2025.03.28-19.15.46:017][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/rastMat]
+[2025.03.28-19.15.46:019][627]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/City/rastMat_Auto9
+[2025.03.28-19.15.46:019][627]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/rastMat_Auto99322492545CADA2E45F700B151823128.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/City/rastMat_Auto9.uasset'
+[2025.03.28-19.15.46:020][627]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/City/Material_011] ([1] browsable assets)...
+[2025.03.28-19.15.46:075][627]OBJ SavePackage:     Rendered thumbnail for [Material /Game/City/Material_011.Material_011]
+[2025.03.28-19.15.46:075][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Material_011]
+[2025.03.28-19.15.46:077][627]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/City/Material_011_Auto9
+[2025.03.28-19.15.46:078][627]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Material_011_Auto9E5D089B54C816AF24A30BFBC961C0A59.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/City/Material_011_Auto9.uasset'
+[2025.03.28-19.15.46:079][627]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/City/uploads_files_2711294_manhattan_building] ([1] browsable assets)...
+[2025.03.28-19.15.46:086][627]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/City/uploads_files_2711294_manhattan_building.uploads_files_2711294_manhattan_building]
+[2025.03.28-19.15.46:086][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/uploads_files_2711294_manhattan_building]
+[2025.03.28-19.15.46:210][627]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/City/uploads_files_2711294_manhattan_building_Auto9
+[2025.03.28-19.15.46:210][627]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/uploads_files_2711294_manhattan_62FC15ED4608206076C256BD1B616A58.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/City/uploads_files_2711294_manhattan_building_Auto9.uasset'
+[2025.03.28-19.15.46:211][627]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/City/Material_001] ([1] browsable assets)...
+[2025.03.28-19.15.46:253][627]OBJ SavePackage:     Rendered thumbnail for [Material /Game/City/Material_001.Material_001]
+[2025.03.28-19.15.46:253][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Material_001]
+[2025.03.28-19.15.46:255][627]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/City/Material_001_Auto9
+[2025.03.28-19.15.46:255][627]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Material_001_Auto92DE4DDAF4BFDC71440FD389BF2B612A0.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/City/Material_001_Auto9.uasset'
+[2025.03.28-19.15.46:256][627]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/City/Material_010] ([1] browsable assets)...
+[2025.03.28-19.15.46:299][627]OBJ SavePackage:     Rendered thumbnail for [Material /Game/City/Material_010.Material_010]
+[2025.03.28-19.15.46:299][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Material_010]
+[2025.03.28-19.15.46:302][627]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/City/Material_010_Auto9
+[2025.03.28-19.15.46:302][627]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Material_010_Auto98E8B296B46E61AA84C2497B64E0409D2.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/City/Material_010_Auto9.uasset'
+[2025.03.28-19.15.46:303][627]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/City/Material_002] ([1] browsable assets)...
+[2025.03.28-19.15.46:344][627]OBJ SavePackage:     Rendered thumbnail for [Material /Game/City/Material_002.Material_002]
+[2025.03.28-19.15.46:344][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Material_002]
+[2025.03.28-19.15.46:346][627]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/City/Material_002_Auto9
+[2025.03.28-19.15.46:346][627]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Material_002_Auto972DD2A6545F5E1C3855BD2AF6E377D41.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/City/Material_002_Auto9.uasset'
+[2025.03.28-19.15.46:348][627]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/City/Material_009] ([1] browsable assets)...
+[2025.03.28-19.15.46:389][627]OBJ SavePackage:     Rendered thumbnail for [Material /Game/City/Material_009.Material_009]
+[2025.03.28-19.15.46:389][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Material_009]
+[2025.03.28-19.15.46:392][627]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/City/Material_009_Auto9
+[2025.03.28-19.15.46:392][627]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Material_009_Auto99B94399D44857CC6414E25B0743949D0.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/City/Material_009_Auto9.uasset'
+[2025.03.28-19.15.46:393][627]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/City/Material_003] ([1] browsable assets)...
+[2025.03.28-19.15.46:435][627]OBJ SavePackage:     Rendered thumbnail for [Material /Game/City/Material_003.Material_003]
+[2025.03.28-19.15.46:435][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Material_003]
+[2025.03.28-19.15.46:437][627]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/City/Material_003_Auto9
+[2025.03.28-19.15.46:437][627]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Material_003_Auto9C8B7796B4D7FBA820ED1699BAAC94988.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/City/Material_003_Auto9.uasset'
+[2025.03.28-19.15.46:439][627]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/City/Material_008] ([1] browsable assets)...
+[2025.03.28-19.15.46:482][627]OBJ SavePackage:     Rendered thumbnail for [Material /Game/City/Material_008.Material_008]
+[2025.03.28-19.15.46:482][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Material_008]
+[2025.03.28-19.15.46:484][627]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/City/Material_008_Auto9
+[2025.03.28-19.15.46:484][627]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Material_008_Auto99F529A1E41B033BE1060AC97255F4CEB.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/City/Material_008_Auto9.uasset'
+[2025.03.28-19.15.46:485][627]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/City/Material_004] ([1] browsable assets)...
+[2025.03.28-19.15.46:527][627]OBJ SavePackage:     Rendered thumbnail for [Material /Game/City/Material_004.Material_004]
+[2025.03.28-19.15.46:527][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Material_004]
+[2025.03.28-19.15.46:528][627]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/City/Material_004_Auto9
+[2025.03.28-19.15.46:528][627]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Material_004_Auto9257CADDD414B4E9BBAADB5927F09627A.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/City/Material_004_Auto9.uasset'
+[2025.03.28-19.15.46:530][627]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/City/Material_007] ([1] browsable assets)...
+[2025.03.28-19.15.46:571][627]OBJ SavePackage:     Rendered thumbnail for [Material /Game/City/Material_007.Material_007]
+[2025.03.28-19.15.46:571][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Material_007]
+[2025.03.28-19.15.46:573][627]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/City/Material_007_Auto9
+[2025.03.28-19.15.46:573][627]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Material_007_Auto94037F9DC4BE1A1E0AA2D5D97F2FC3887.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/City/Material_007_Auto9.uasset'
+[2025.03.28-19.15.46:575][627]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/City/Material_005] ([1] browsable assets)...
+[2025.03.28-19.15.46:629][627]OBJ SavePackage:     Rendered thumbnail for [Material /Game/City/Material_005.Material_005]
+[2025.03.28-19.15.46:630][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Material_005]
+[2025.03.28-19.15.46:632][627]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/City/Material_005_Auto9
+[2025.03.28-19.15.46:632][627]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Material_005_Auto97D8553634EDC1B6E4F9083A84E6D1803.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/City/Material_005_Auto9.uasset'
+[2025.03.28-19.15.46:633][627]LogFileHelpers: Auto-saving content packages took 16.617
+[2025.03.28-19.15.46:663][627]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10732.102539
+[2025.03.28-19.15.47:341][630]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.28-19.15.47:341][630]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10732.448242, Update Interval: 304.532013
+[2025.03.28-19.16.15:909][947]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-19.16.16:030][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.03.28-19.16.16:091][947]LogSavePackage: Moving output files for package: /Game/YakuzaMain
+[2025.03.28-19.16.16:093][947]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/YakuzaMainA68FB74A47C42830D4241FA1D0AEBFAB.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Content/YakuzaMain.umap'
+[2025.03.28-19.16.16:112][947]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/YakuzaMain_BuiltData
+[2025.03.28-19.16.16:112][947]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-19.16.16:112][947]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/YakuzaMain_BuiltData] ([1] browsable assets)...
+[2025.03.28-19.16.16:112][947]OBJ SavePackage: Finished generating thumbnails for package [/Game/YakuzaMain_BuiltData]
+[2025.03.28-19.16.16:112][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YakuzaMain_BuiltData" FILE="../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Content/YakuzaMain_BuiltData.uasset" SILENT=true
+[2025.03.28-19.16.16:202][947]LogSavePackage: Moving output files for package: /Game/YakuzaMain_BuiltData
+[2025.03.28-19.16.16:203][947]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/YakuzaMain_BuiltData40603C6B4159BF06099790B224A94FD1.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Content/YakuzaMain_BuiltData.uasset'
+[2025.03.28-19.16.16:204][947]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.439 ms (total: 12.9 sec)
+[2025.03.28-19.16.16:204][947]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/YakuzaMain_BuiltData
+[2025.03.28-19.16.16:204][947]LogFileHelpers: Saving map 'YakuzaMain' took 0.237
+[2025.03.28-19.16.16:225][947]LogFileHelpers: InternalPromptForCheckoutAndSave took 315.513 ms (total: 13.2 sec)
+[2025.03.28-19.16.16:267][947]LogContentValidation: Display: Starting to validate 2 assets
+[2025.03.28-19.16.16:267][947]LogContentValidation: Enabled validators:
+[2025.03.28-19.16.16:267][947]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-19.16.16:267][947]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-19.16.16:267][947]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-19.16.16:267][947]LogContentValidation: Display: Validating asset /Game/YakuzaMain.YakuzaMain
+[2025.03.28-19.16.16:267][947]AssetCheck: /Game/YakuzaMain Validating asset
+[2025.03.28-19.16.16:267][947]LogContentValidation: Display: Validating asset /Game/YakuzaMain_BuiltData.YakuzaMain_BuiltData
+[2025.03.28-19.16.16:267][947]AssetCheck: /Game/YakuzaMain_BuiltData Validating asset
+[2025.03.28-19.16.31:310][738]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City/uploads_files_2711294_manhattan_building.uploads_files_2711294_manhattan_building
+[2025.03.28-19.16.31:310][738]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City/uploads_files_2711294_manhattan_building.uploads_files_2711294_manhattan_building
+[2025.03.28-19.16.31:310][738]LogActorFactory: Actor Factory spawned StaticMesh /Game/City/uploads_files_2711294_manhattan_building.uploads_files_2711294_manhattan_building as actor: StaticMeshActor /Game/YakuzaMain.YakuzaMain:PersistentLevel.StaticMeshActor_74
+[2025.03.28-19.16.32:211][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.03.28-19.16.32:211][793]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2025.03.28-19.16.32:224][793]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City/uploads_files_2711294_manhattan_building.uploads_files_2711294_manhattan_building
+[2025.03.28-19.16.32:224][793]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City/uploads_files_2711294_manhattan_building.uploads_files_2711294_manhattan_building
+[2025.03.28-19.16.32:225][793]LogActorFactory: Actor Factory spawned StaticMesh /Game/City/uploads_files_2711294_manhattan_building.uploads_files_2711294_manhattan_building as actor: StaticMeshActor /Game/YakuzaMain.YakuzaMain:PersistentLevel.StaticMeshActor_86
+[2025.03.28-19.16.43:793][558]Cmd: TRANSACTION UNDO
+[2025.03.28-19.16.43:793][558]LogEditorTransaction: Undo Place Objects
+[2025.03.28-19.16.50:978][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.03.28-19.16.57:834][890]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.28-19.16.57:915][890]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-19.16.57:915][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-19.16.58:010][890]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-19.16.58:010][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-19.16.58:087][890]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-19.16.58:087][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-19.16.58:136][890]LogSlate: Window 'Dtla_Orbit_u1_v1' being destroyed
+[2025.03.28-19.16.58:173][890]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-19.16.58:173][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-19.16.58:272][890]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-19.16.58:273][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-19.16.58:295][890]LogUObjectGlobals: Force Deleting 23 Package(s):
+	Asset Name: /Game/City/rastMat.rastMat
+	Asset Type: Material
+	Asset Name: /Game/City/Material_011.Material_011
+	Asset Type: Material
+	Asset Name: /Game/City/Material_010.Material_010
+	Asset Type: Material
+	Asset Name: /Game/City/Material_009.Material_009
+	Asset Type: Material
+	Asset Name: /Game/City/Material_008.Material_008
+	Asset Type: Material
+	Asset Name: /Game/City/Material_007.Material_007
+	Asset Type: Material
+	Asset Name: /Game/City/Material_006.Material_006
+	Asset Type: Material
+	Asset Name: /Game/City/Material_005.Material_005
+	Asset Type: Material
+	Asset Name: /Game/City/Material_004.Material_004
+	Asset Type: Material
+	Asset Name: /Game/City/Material_003.Material_003
+	Asset Type: Material
+[2025.03.28-19.16.59:426][890]LogMaterial: Warning: [AssetLog] /Engine/Transient.Dtla_Orbit_u3_v1: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.03.28-19.16.59:426][890]LogMaterial: Warning: Dtla_Orbit_u3_v1: Requesting an invalid TextureIndex! (0 / 1)
+[2025.03.28-19.16.59:428][890]LogMaterial: Warning: [AssetLog] /Engine/Transient.Dtla_Orbit_u3_v1: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.03.28-19.16.59:430][890]LogMaterial: Warning: [AssetLog] /Engine/Transient.Dtla_Orbit_u2_v2: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.03.28-19.16.59:431][890]LogMaterial: Warning: [AssetLog] /Engine/Transient.Dtla_Orbit_u2_v2: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.03.28-19.16.59:432][890]LogMaterial: Warning: [AssetLog] C:\Users\tiger\OneDrive\Dokumenti\Unreal Projects\YakuzaLevel\FPSFinal\Content\City\Dtla_Orbit_u3_v1.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.03.28-19.16.59:433][890]LogMaterial: Warning: [AssetLog] C:\Users\tiger\OneDrive\Dokumenti\Unreal Projects\YakuzaLevel\FPSFinal\Content\City\Dtla_Orbit_u3_v1.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.03.28-19.16.59:434][890]LogMaterial: Warning: [AssetLog] C:\Users\tiger\OneDrive\Dokumenti\Unreal Projects\YakuzaLevel\FPSFinal\Content\City\Dtla_Orbit_u1_v2.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.03.28-19.16.59:435][890]LogMaterial: Warning: [AssetLog] C:\Users\tiger\OneDrive\Dokumenti\Unreal Projects\YakuzaLevel\FPSFinal\Content\City\Dtla_Orbit_u1_v2.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.03.28-19.16.59:436][890]LogMaterial: Warning: [AssetLog] C:\Users\tiger\OneDrive\Dokumenti\Unreal Projects\YakuzaLevel\FPSFinal\Content\City\Dtla_Orbit_u2_v2.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.03.28-19.16.59:436][890]LogMaterial: Warning: [AssetLog] C:\Users\tiger\OneDrive\Dokumenti\Unreal Projects\YakuzaLevel\FPSFinal\Content\City\Dtla_Orbit_u2_v2.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.03.28-19.16.59:437][890]LogMaterial: Warning: [AssetLog] /Engine/Transient.Dtla_Orbit_u2_v2: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.03.28-19.16.59:438][890]LogMaterial: Warning: [AssetLog] /Engine/Transient.Dtla_Orbit_u1_v2: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.03.28-19.16.59:439][890]LogMaterial: Warning: [AssetLog] /Engine/Transient.Dtla_Orbit_u1_v2: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.03.28-19.16.59:440][890]LogMaterial: Warning: [AssetLog] /Engine/Transient.Dtla_Orbit_u3_v1: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.03.28-19.16.59:441][890]LogMaterial: Warning: [AssetLog] /Game/City/Dtla_Orbit_u2_v1.Dtla_Orbit_u2_v1: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.03.28-19.16.59:441][890]LogMaterial: Warning: [AssetLog] /Game/City/Dtla_Orbit_u2_v1.Dtla_Orbit_u2_v1: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.03.28-19.16.59:442][890]LogMaterial: Warning: [AssetLog] C:\Users\tiger\OneDrive\Dokumenti\Unreal Projects\YakuzaLevel\FPSFinal\Content\City\Dtla_Orbit_u1_v1.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.03.28-19.16.59:443][890]LogMaterial: Warning: [AssetLog] C:\Users\tiger\OneDrive\Dokumenti\Unreal Projects\YakuzaLevel\FPSFinal\Content\City\Dtla_Orbit_u1_v1.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.03.28-19.16.59:543][890]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/City/Dtla_Orbit) ...
+[2025.03.28-19.17.02:761][890]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/City/Dtla_Orbit) ...
+[2025.03.28-19.17.05:354][890]LogMaterial: Warning: [AssetLog] /Engine/Transient.Dtla_Orbit_u1_v1: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.03.28-19.17.05:356][890]LogMaterial: Warning: [AssetLog] /Engine/Transient.Dtla_Orbit_u1_v1: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.03.28-19.17.05:356][890]LogMaterial: Warning: [AssetLog] /Engine/Transient.Dtla_Orbit_u1_v2: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.03.28-19.17.05:369][890]LogMaterial: Warning: [AssetLog] /Engine/Transient.Dtla_Orbit_u1_v1: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.03.28-19.17.05:370][890]LogMaterial: Warning: [AssetLog] /Engine/Transient.Dtla_Orbit_u1_v1: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.03.28-19.17.05:371][890]LogMaterial: Warning: [AssetLog] /Engine/Transient.Dtla_Orbit_u1_v1: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.03.28-19.17.05:892][890]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/City/Dtla_Orbit) ...
+[2025.03.28-19.17.08:494][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.03.28-19.17.08:521][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.03.28-19.17.08:540][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.03.28-19.17.08:709][890]LogSlate: Warning: Menu could not be pushed.  A path to the parent widget(SAssetView [SContentBrowser.cpp(380)]) could not be found
+[2025.03.28-19.17.08:729][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.03.28-19.17.15:882][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.03.28-19.17.17:078][537]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.28-19.17.17:108][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.03.28-19.17.17:129][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.03.28-19.17.17:151][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.03.28-19.17.20:408][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.03.28-19.17.21:236][817]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.28-19.17.21:275][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.03.28-19.17.21:295][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.03.28-19.17.21:316][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display: ================================================
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display: Total job queries 2,119, among them cache hits 999 (47.14%), DDC hits 175 (8.26%), Duplicates 370 (17.46%)
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display: Tracking 750 distinct input hashes that result in 544 distinct outputs (72.53%)
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display: RAM used: 2.15 MiB of 819.20 MiB budget. Usage: 0.26%
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display: Shaders Compiled: 575
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display: Jobs assigned 575, completed 575 (100%)
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display: Average time worker was idle: 185.77 s
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display: Time job spent in pending queue: average 25.53 s, longest 81.64 s
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display: Job execution time: average 4.90 s, max 17.14 s
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display: Job life time (pending + execution): average 30.44 s, max 83.41
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display: Shader code size: average 6.278 KiB, min 444 B, max 40.059 KiB
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 265.77 s
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display: Jobs were issued in 458 batches (only local compilation was used), average 1.26 jobs/batch
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display: Average processing rate: 2.16 jobs/sec
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display: Total thread time: 733.787 s
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display: Total thread preprocess time: 39.45 s
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display: Percentage time preprocessing: 5.38%
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display: Effective parallelization: 2.76 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   55 times, average 3.30 sec, max 4.63 sec, min 2.07 sec)
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    2 times, average 1.51 sec, max 1.54 sec, min 1.48 sec)
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    3 times, average 1.41 sec, max 1.71 sec, min 0.96 sec)
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   25 times, average 1.38 sec, max 1.79 sec, min 0.93 sec)
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   24 times, average 1.38 sec, max 1.90 sec, min 0.81 sec)
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display:                                             FDebugViewModePS - 24.77% of total time (compiled   55 times, average 3.30 sec, max 4.63 sec, min 2.07 sec)
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.47% of total time (compiled   70 times, average 0.99 sec, max 1.46 sec, min 0.63 sec)
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.71% of total time (compiled   25 times, average 1.38 sec, max 1.79 sec, min 0.93 sec)
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 4.67% of total time (compiled   26 times, average 1.32 sec, max 2.20 sec, min 0.85 sec)
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 4.58% of total time (compiled   25 times, average 1.34 sec, max 2.32 sec, min 0.87 sec)
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display: === Material stats ===
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display: Materials Translated:    382
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display: Material Total Translate Time: 0.42 s
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display: Material Translation Only: 0.24 s (58%)
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display: Material Cache Hits: 37 (10%)
+[2025.03.28-19.17.21:320][817]LogShaderCompilers: Display: ================================================
+[2025.03.28-19.17.40:960][ 24]LogAssetTools: Warning: Failed to import 'textures'. Unknown extension ''.
+[2025.03.28-19.18.29:781][570]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Content/City/uploads_files_2711294_manhattan.fbx)
+[2025.03.28-19.18.29:804][570]LogFbx: Loading FBX Scene from C:/Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Content/City/uploads_files_2711294_manhattan.fbx
+[2025.03.28-19.18.29:925][570]LogFbx: FBX Scene Loaded Succesfully
+[2025.03.28-19.18.30:311][570]LogDerivedDataCache: C:/Users/tiger/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.03.28-19.18.31:924][570]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.03.28-19.18.37:952][571]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-19.18.38:141][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.03.28-19.18.38:157][571]LogFileHelpers: InternalPromptForCheckoutAndSave took 205.262 ms (total: 13.4 sec)
+[2025.03.28-19.18.40:160][760]LogSlate: Window 'Message Log' being destroyed
+[2025.03.28-19.18.40:169][760]LogSlate: Window 'Message Log' being destroyed
+[2025.03.28-19.18.41:161][870]AssetReimport: Importing new asset /Game/City/uploads_files_2711294_manhattan.
+[2025.03.28-19.18.53:294][925]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City/uploads_files_2711294_manhattan_EXPORT_GOOGLE_SAT_WM.uploads_files_2711294_manhattan_EXPORT_GOOGLE_SAT_WM
+[2025.03.28-19.18.53:294][925]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City/uploads_files_2711294_manhattan_EXPORT_GOOGLE_SAT_WM.uploads_files_2711294_manhattan_EXPORT_GOOGLE_SAT_WM
+[2025.03.28-19.18.53:295][925]LogActorFactory: Actor Factory spawned StaticMesh /Game/City/uploads_files_2711294_manhattan_EXPORT_GOOGLE_SAT_WM.uploads_files_2711294_manhattan_EXPORT_GOOGLE_SAT_WM as actor: StaticMeshActor /Game/YakuzaMain.YakuzaMain:PersistentLevel.StaticMeshActor_87
+[2025.03.28-19.18.54:770][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.03.28-19.18.54:772][ 68]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2025.03.28-19.18.54:787][ 68]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City/uploads_files_2711294_manhattan_EXPORT_GOOGLE_SAT_WM.uploads_files_2711294_manhattan_EXPORT_GOOGLE_SAT_WM
+[2025.03.28-19.18.54:787][ 68]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City/uploads_files_2711294_manhattan_EXPORT_GOOGLE_SAT_WM.uploads_files_2711294_manhattan_EXPORT_GOOGLE_SAT_WM
+[2025.03.28-19.18.54:789][ 68]LogActorFactory: Actor Factory spawned StaticMesh /Game/City/uploads_files_2711294_manhattan_EXPORT_GOOGLE_SAT_WM.uploads_files_2711294_manhattan_EXPORT_GOOGLE_SAT_WM as actor: StaticMeshActor /Game/YakuzaMain.YakuzaMain:PersistentLevel.StaticMeshActor_101
+[2025.03.28-19.18.56:508][242]Cmd: TRANSACTION UNDO
+[2025.03.28-19.18.56:509][242]LogEditorTransaction: Undo Place Objects
+[2025.03.28-19.19.02:693][807]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City/uploads_files_2711294_manhattan_building.uploads_files_2711294_manhattan_building
+[2025.03.28-19.19.02:693][807]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City/uploads_files_2711294_manhattan_building.uploads_files_2711294_manhattan_building
+[2025.03.28-19.19.02:694][807]LogActorFactory: Actor Factory spawned StaticMesh /Game/City/uploads_files_2711294_manhattan_building.uploads_files_2711294_manhattan_building as actor: StaticMeshActor /Game/YakuzaMain.YakuzaMain:PersistentLevel.StaticMeshActor_102
+[2025.03.28-19.19.05:813][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.03.28-19.19.05:816][117]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2025.03.28-19.19.05:832][117]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City/uploads_files_2711294_manhattan_building.uploads_files_2711294_manhattan_building
+[2025.03.28-19.19.05:832][117]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/City/uploads_files_2711294_manhattan_building.uploads_files_2711294_manhattan_building
+[2025.03.28-19.19.05:833][117]LogActorFactory: Actor Factory spawned StaticMesh /Game/City/uploads_files_2711294_manhattan_building.uploads_files_2711294_manhattan_building as actor: StaticMeshActor /Game/YakuzaMain.YakuzaMain:PersistentLevel.StaticMeshActor_113
+[2025.03.28-19.20.12:834][ 67]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/City/uploads_files_2711294_manhattan_building.uploads_files_2711294_manhattan_building
+[2025.03.28-19.20.12:842][ 67]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_20'.
+[2025.03.28-19.20.32:886][995]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-19.20.32:945][995]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/City/uploads_files_2711294_manhattan_building] ([1] browsable assets)...
+[2025.03.28-19.20.32:958][995]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/City/uploads_files_2711294_manhattan_building.uploads_files_2711294_manhattan_building]
+[2025.03.28-19.20.32:958][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/uploads_files_2711294_manhattan_building]
+[2025.03.28-19.20.33:065][995]LogSavePackage: Moving output files for package: /Game/City/uploads_files_2711294_manhattan_building
+[2025.03.28-19.20.33:065][995]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/uploads_files_2711294_manhattan_D9392705490EC84533480CA853573812.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Content/City/uploads_files_2711294_manhattan_building.uasset'
+[2025.03.28-19.20.33:073][995]LogFileHelpers: InternalPromptForCheckoutAndSave took 187.197 ms (total: 13.6 sec)
+[2025.03.28-19.20.33:135][995]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.28-19.20.33:135][995]LogContentValidation: Enabled validators:
+[2025.03.28-19.20.33:135][995]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-19.20.33:135][995]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-19.20.33:135][995]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-19.20.33:135][995]LogContentValidation: Display: Validating asset /Game/City/uploads_files_2711294_manhattan_building.uploads_files_2711294_manhattan_building
+[2025.03.28-19.20.33:135][995]AssetCheck: /Game/City/uploads_files_2711294_manhattan_building Validating asset
+[2025.03.28-19.20.35:968][263]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.28-19.20.35:988][263]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.28-19.20.36:026][263]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_YakuzaMain
+[2025.03.28-19.20.36:043][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017282s)
+[2025.03.28-19.20.36:043][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/YakuzaMain.YakuzaMain to /Game/UEDPIE_0_YakuzaMain.YakuzaMain (0.017325s)
+[2025.03.28-19.20.36:060][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.03.28-19.20.36:062][263]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.03.28-19.20.36:062][263]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/UEDPIE_0_YakuzaMain.YakuzaMain'.
+[2025.03.28-19.20.36:062][263]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2025.03.28-19.20.36:073][263]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.03.28-19.20.36:073][263]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.28-19.20.36:073][263]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.28-19.20.36:073][263]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.28-19.20.36:073][263]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.28-19.20.36:073][263]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.28-19.20.36:073][263]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.28-19.20.36:073][263]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.28-19.20.36:073][263]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.28-19.20.36:073][263]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.28-19.20.36:073][263]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.28-19.20.36:073][263]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.28-19.20.36:075][263]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.28-19.20.36:090][263]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Wireless Stereo Headset)
+[2025.03.28-19.20.36:090][263]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.28-19.20.36:090][263]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.28-19.20.36:090][263]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.28-19.20.36:094][263]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.03.28-19.20.36:094][263]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.03.28-19.20.36:096][263]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.03.28-19.20.36:096][263]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.03.28-19.20.36:096][263]LogInit: FAudioDevice initialized with ID 22.
+[2025.03.28-19.20.36:096][263]LogAudio: Display: Audio Device (ID: 22) registered with world 'YakuzaMain'.
+[2025.03.28-19.20.36:096][263]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.03.28-19.20.36:099][263]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2025.03.28-19.20.36:118][263]LogWorld: Bringing World /Game/UEDPIE_0_YakuzaMain.YakuzaMain up for play (max tick rate 0) at 2025.03.28-15.20.36
+[2025.03.28-19.20.36:124][263]LogWorld: Bringing up level for play took: 0.024453
+[2025.03.28-19.20.36:126][263]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2025.03.28-19.20.36:143][263]PIE: Server logged in
+[2025.03.28-19.20.36:144][263]PIE: Play in editor total start time 0.169 seconds.
+[2025.03.28-19.20.40:956][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.28-19.20.40:956][680]LogWorld: BeginTearingDown for /Game/UEDPIE_0_YakuzaMain
+[2025.03.28-19.20.40:957][680]LogWorld: UWorld::CleanupWorld for YakuzaMain, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-19.20.40:958][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-19.20.40:959][680]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.03.28-19.20.40:959][680]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.03.28-19.20.40:962][680]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.28-19.20.40:969][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-19.20.40:989][680]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.28-19.20.40:990][680]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.03.28-19.20.40:990][680]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.03.28-19.20.40:991][680]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.03.28-19.20.40:995][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.28-19.20.41:001][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.03.28-19.20.41:097][681]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2025.03.28-19.20.51:808][758]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.28-19.20.52:823][868]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.28-19.20.52:841][868]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.28-19.20.52:841][868]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_YakuzaMain
+[2025.03.28-19.20.52:858][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017272s)
+[2025.03.28-19.20.52:858][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/YakuzaMain.YakuzaMain to /Game/UEDPIE_0_YakuzaMain.YakuzaMain (0.017307s)
+[2025.03.28-19.20.52:879][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.03.28-19.20.52:882][868]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.03.28-19.20.52:882][868]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/UEDPIE_0_YakuzaMain.YakuzaMain'.
+[2025.03.28-19.20.52:882][868]LogPlayLevel: PIE: World Init took: (0.001029s)
+[2025.03.28-19.20.52:893][868]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.03.28-19.20.52:893][868]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.28-19.20.52:893][868]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.28-19.20.52:893][868]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.28-19.20.52:893][868]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.28-19.20.52:893][868]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.28-19.20.52:893][868]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.28-19.20.52:893][868]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.28-19.20.52:893][868]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.28-19.20.52:893][868]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.28-19.20.52:893][868]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.28-19.20.52:893][868]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.28-19.20.52:895][868]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.28-19.20.52:909][868]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Wireless Stereo Headset)
+[2025.03.28-19.20.52:910][868]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.28-19.20.52:910][868]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.28-19.20.52:910][868]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.28-19.20.52:910][868]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.03.28-19.20.52:910][868]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.03.28-19.20.52:912][868]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.03.28-19.20.52:912][868]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.03.28-19.20.52:912][868]LogInit: FAudioDevice initialized with ID 23.
+[2025.03.28-19.20.52:912][868]LogAudio: Display: Audio Device (ID: 23) registered with world 'YakuzaMain'.
+[2025.03.28-19.20.52:913][868]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.03.28-19.20.52:915][868]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2025.03.28-19.20.52:934][868]LogWorld: Bringing World /Game/UEDPIE_0_YakuzaMain.YakuzaMain up for play (max tick rate 0) at 2025.03.28-15.20.52
+[2025.03.28-19.20.52:939][868]LogWorld: Bringing up level for play took: 0.023153
+[2025.03.28-19.20.52:941][868]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2025.03.28-19.20.52:957][868]PIE: Server logged in
+[2025.03.28-19.20.52:957][868]PIE: Play in editor total start time 0.127 seconds.
+[2025.03.28-19.21.17:712][208]LogCore: Display: Tracing Screenshot "ScreenShot00001" taken with size: 1936 x 1056
+[2025.03.28-19.21.38:354][467]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11083.844727
+[2025.03.28-19.21.39:355][470]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.28-19.21.39:355][470]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11084.513672, Update Interval: 341.941589
+[2025.03.28-19.22.13:045][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.28-19.22.13:045][663]LogWorld: BeginTearingDown for /Game/UEDPIE_0_YakuzaMain
+[2025.03.28-19.22.13:046][663]LogWorld: UWorld::CleanupWorld for YakuzaMain, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-19.22.13:048][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-19.22.13:048][663]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.03.28-19.22.13:048][663]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.03.28-19.22.13:052][663]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.28-19.22.13:058][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-19.22.13:079][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.28-19.22.13:080][663]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.03.28-19.22.13:080][663]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.03.28-19.22.13:082][663]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.03.28-19.22.13:093][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.03.28-19.22.13:171][664]LogPlayLevel: Display: Destroying online subsystem :Context_43
