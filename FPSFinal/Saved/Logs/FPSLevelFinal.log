@@ -2621,3 +2621,132 @@ Script Stack (0 frames) :
 [2025.03.28-17.52.01:323][885]AssetCheck: /Game/YakuzaMain Validating asset
 [2025.03.28-17.52.01:324][885]LogContentValidation: Display: Validating asset /Game/YakuzaMain_BuiltData.YakuzaMain_BuiltData
 [2025.03.28-17.52.01:324][885]AssetCheck: /Game/YakuzaMain_BuiltData Validating asset
+[2025.03.28-17.55.16:519][634]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5902.078613
+[2025.03.28-17.55.17:519][637]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.28-17.55.17:519][637]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5902.745117, Update Interval: 331.423676
+[2025.03.28-18.01.44:596][798]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6290.193359
+[2025.03.28-18.01.45:597][801]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.28-18.01.45:597][801]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6290.860352, Update Interval: 318.772552
+[2025.03.28-18.02.02:603][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.03.28-18.02.02:605][848]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/YakuzaMain' took 0.055
+[2025.03.28-18.02.02:607][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AdvancedLocomotionV4/Props/Materials/M_Prop] ([1] browsable assets)...
+[2025.03.28-18.02.03:799][848]OBJ SavePackage:     Rendered thumbnail for [Material /Game/AdvancedLocomotionV4/Props/Materials/M_Prop.M_Prop]
+[2025.03.28-18.02.03:799][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedLocomotionV4/Props/Materials/M_Prop]
+[2025.03.28-18.02.11:941][848]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Props/Materials/M_Prop_Auto4
+[2025.03.28-18.02.11:941][848]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/M_Prop_Auto441E690914B1E4B9663B54889D4D23B60.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/AdvancedLocomotionV4/Props/Materials/M_Prop_Auto4.uasset'
+[2025.03.28-18.02.11:944][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AdvancedLocomotionV4/Props/Materials/M_Prop_Torch3] ([1] browsable assets)...
+[2025.03.28-18.02.12:027][848]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/AdvancedLocomotionV4/Props/Materials/M_Prop_Torch3.M_Prop_Torch3]
+[2025.03.28-18.02.12:027][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedLocomotionV4/Props/Materials/M_Prop_Torch3]
+[2025.03.28-18.02.12:036][848]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Props/Materials/M_Prop_Torch3_Auto4
+[2025.03.28-18.02.12:037][848]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/M_Prop_Torch3_Auto4381A70854F96F5E987FCCD9DD1A21897.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/AdvancedLocomotionV4/Props/Materials/M_Prop_Torch3_Auto4.uasset'
+[2025.03.28-18.02.12:038][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ClayPots/Materials/Master/M_Pot] ([1] browsable assets)...
+[2025.03.28-18.02.12:090][848]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ClayPots/Materials/Master/M_Pot.M_Pot]
+[2025.03.28-18.02.12:091][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/ClayPots/Materials/Master/M_Pot]
+[2025.03.28-18.02.12:107][848]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ClayPots/Materials/Master/M_Pot_Auto4
+[2025.03.28-18.02.12:107][848]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/M_Pot_Auto4A9B936FA4DA9405D5B6FB180E580101B.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/ClayPots/Materials/Master/M_Pot_Auto4.uasset'
+[2025.03.28-18.02.12:108][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ClayPots/Demo/Materials/Master/M_Curve_Wall] ([1] browsable assets)...
+[2025.03.28-18.02.12:120][848]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ClayPots/Demo/Materials/Master/M_Curve_Wall.M_Curve_Wall]
+[2025.03.28-18.02.12:120][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/ClayPots/Demo/Materials/Master/M_Curve_Wall]
+[2025.03.28-18.02.12:125][848]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ClayPots/Demo/Materials/Master/M_Curve_Wall_Auto4
+[2025.03.28-18.02.12:125][848]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/M_Curve_Wall_Auto4885C66F145A171FA85C0DD892691DE88.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/ClayPots/Demo/Materials/Master/M_Curve_Wall_Auto4.uasset'
+[2025.03.28-18.02.12:128][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FinalFloorAssets/mat/source/Doormate1_Inst] ([1] browsable assets)...
+[2025.03.28-18.02.12:138][848]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/FinalFloorAssets/mat/source/Doormate1_Inst.Doormate1_Inst]
+[2025.03.28-18.02.12:138][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/FinalFloorAssets/mat/source/Doormate1_Inst]
+[2025.03.28-18.02.12:145][848]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FinalFloorAssets/mat/source/Doormate1_Inst_Auto4
+[2025.03.28-18.02.12:145][848]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Doormate1_Inst_Auto4600F92204CA60B015366BDAE53ACD234.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/FinalFloorAssets/mat/source/Doormate1_Inst_Auto4.uasset'
+[2025.03.28-18.02.12:146][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FinalFloorAssets/mat/source/Doormate1] ([1] browsable assets)...
+[2025.03.28-18.02.12:154][848]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FinalFloorAssets/mat/source/Doormate1.Doormate1]
+[2025.03.28-18.02.12:154][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/FinalFloorAssets/mat/source/Doormate1]
+[2025.03.28-18.02.12:161][848]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FinalFloorAssets/mat/source/Doormate1_Auto4
+[2025.03.28-18.02.12:161][848]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Doormate1_Auto4C5B058914CC6751B303B6581760A4361.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/FinalFloorAssets/mat/source/Doormate1_Auto4.uasset'
+[2025.03.28-18.02.12:163][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FinalFloorAssets/textures/tew_gong2_tga_Mat_Inst] ([1] browsable assets)...
+[2025.03.28-18.02.12:170][848]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/FinalFloorAssets/textures/tew_gong2_tga_Mat_Inst.tew_gong2_tga_Mat_Inst]
+[2025.03.28-18.02.12:171][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/FinalFloorAssets/textures/tew_gong2_tga_Mat_Inst]
+[2025.03.28-18.02.12:174][848]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FinalFloorAssets/textures/tew_gong2_tga_Mat_Inst_Auto4
+[2025.03.28-18.02.12:174][848]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/tew_gong2_tga_Mat_Inst_Auto4036399164F5990DD3517808FE7D9F2BB.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/FinalFloorAssets/textures/tew_gong2_tga_Mat_Inst_Auto4.uasset'
+[2025.03.28-18.02.12:175][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FinalFloorAssets/textures/tew_gong2_tga_Mat] ([1] browsable assets)...
+[2025.03.28-18.02.12:186][848]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FinalFloorAssets/textures/tew_gong2_tga_Mat.tew_gong2_tga_Mat]
+[2025.03.28-18.02.12:186][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/FinalFloorAssets/textures/tew_gong2_tga_Mat]
+[2025.03.28-18.02.12:189][848]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FinalFloorAssets/textures/tew_gong2_tga_Mat_Auto4
+[2025.03.28-18.02.12:189][848]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/tew_gong2_tga_Mat_Auto4FED8C5694D8A942886597491A5D2A121.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/FinalFloorAssets/textures/tew_gong2_tga_Mat_Auto4.uasset'
+[2025.03.28-18.02.12:190][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FinalFloorAssets/textures/tew_lightwood9_tga_Mat_Inst] ([1] browsable assets)...
+[2025.03.28-18.02.12:201][848]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/FinalFloorAssets/textures/tew_lightwood9_tga_Mat_Inst.tew_lightwood9_tga_Mat_Inst]
+[2025.03.28-18.02.12:201][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/FinalFloorAssets/textures/tew_lightwood9_tga_Mat_Inst]
+[2025.03.28-18.02.12:204][848]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FinalFloorAssets/textures/tew_lightwood9_tga_Mat_Inst_Auto4
+[2025.03.28-18.02.12:205][848]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/tew_lightwood9_tga_Mat_Inst_Auto3AF6B6044B4425C607DE78B08374175D.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/FinalFloorAssets/textures/tew_lightwood9_tga_Mat_Inst_Auto4.uasset'
+[2025.03.28-18.02.12:206][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FinalFloorAssets/textures/tew_lightwood9_tga_Mat] ([1] browsable assets)...
+[2025.03.28-18.02.12:216][848]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FinalFloorAssets/textures/tew_lightwood9_tga_Mat.tew_lightwood9_tga_Mat]
+[2025.03.28-18.02.12:217][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/FinalFloorAssets/textures/tew_lightwood9_tga_Mat]
+[2025.03.28-18.02.12:220][848]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FinalFloorAssets/textures/tew_lightwood9_tga_Mat_Auto4
+[2025.03.28-18.02.12:220][848]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/tew_lightwood9_tga_Mat_Auto4C37629F14653C0C536EB8692BA4AA340.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/FinalFloorAssets/textures/tew_lightwood9_tga_Mat_Auto4.uasset'
+[2025.03.28-18.02.12:221][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FinalFloorAssets/textures/tew_pattern_tga_Mat_Inst] ([1] browsable assets)...
+[2025.03.28-18.02.12:244][848]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/FinalFloorAssets/textures/tew_pattern_tga_Mat_Inst.tew_pattern_tga_Mat_Inst]
+[2025.03.28-18.02.12:244][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/FinalFloorAssets/textures/tew_pattern_tga_Mat_Inst]
+[2025.03.28-18.02.12:247][848]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FinalFloorAssets/textures/tew_pattern_tga_Mat_Inst_Auto4
+[2025.03.28-18.02.12:247][848]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/tew_pattern_tga_Mat_Inst_Auto4B4BAD61E4E4AAA10924969A62F588DB0.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/FinalFloorAssets/textures/tew_pattern_tga_Mat_Inst_Auto4.uasset'
+[2025.03.28-18.02.12:249][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FinalFloorAssets/textures/tew_pattern_tga_Mat] ([1] browsable assets)...
+[2025.03.28-18.02.12:269][848]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FinalFloorAssets/textures/tew_pattern_tga_Mat.tew_pattern_tga_Mat]
+[2025.03.28-18.02.12:269][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/FinalFloorAssets/textures/tew_pattern_tga_Mat]
+[2025.03.28-18.02.12:273][848]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FinalFloorAssets/textures/tew_pattern_tga_Mat_Auto4
+[2025.03.28-18.02.12:273][848]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/tew_pattern_tga_Mat_Auto4CF98C4474A9157A969D681949C49F13A.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/FinalFloorAssets/textures/tew_pattern_tga_Mat_Auto4.uasset'
+[2025.03.28-18.02.12:275][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelLayoutImages/japanese-aesthetic-red-dragonymbol-kanji-japan-tattoo-art-ayoub-alessa-transparent_Mat_Inst] ([1] browsable assets)...
+[2025.03.28-18.02.12:285][848]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/LevelLayoutImages/japanese-aesthetic-red-dragonymbol-kanji-japan-tattoo-art-ayoub-alessa-transparent_Mat_Inst.japanese-aesthetic-red-dragonymbol-kanji-japan-tattoo-art-ayoub-alessa-transparent_Mat_Inst]
+[2025.03.28-18.02.12:285][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelLayoutImages/japanese-aesthetic-red-dragonymbol-kanji-japan-tattoo-art-ayoub-alessa-transparent_Mat_Inst]
+[2025.03.28-18.02.12:289][848]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelLayoutImages/japanese-aesthetic-red-dragonymbol-kanji-japan-tattoo-art-ayoub-alessa-transparent_Mat_Inst_Auto4
+[2025.03.28-18.02.12:289][848]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/japanese-aesthetic-red-dragonymb42AD98ED472540E11316AB969487DBBA.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/LevelLayoutImages/japanese-aesthetic-red-dragonymbol-kanji-japan-tattoo-art-ayoub-alessa-transparent_Mat_Inst_Auto4.uasset'
+[2025.03.28-18.02.12:292][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelLayoutImages/japanese-aesthetic-red-dragonymbol-kanji-japan-tattoo-art-ayoub-alessa-transparent_Mat] ([1] browsable assets)...
+[2025.03.28-18.02.12:303][848]OBJ SavePackage:     Rendered thumbnail for [Material /Game/LevelLayoutImages/japanese-aesthetic-red-dragonymbol-kanji-japan-tattoo-art-ayoub-alessa-transparent_Mat.japanese-aesthetic-red-dragonymbol-kanji-japan-tattoo-art-ayoub-alessa-transparent_Mat]
+[2025.03.28-18.02.12:304][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelLayoutImages/japanese-aesthetic-red-dragonymbol-kanji-japan-tattoo-art-ayoub-alessa-transparent_Mat]
+[2025.03.28-18.02.12:307][848]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelLayoutImages/japanese-aesthetic-red-dragonymbol-kanji-japan-tattoo-art-ayoub-alessa-transparent_Mat_Auto4
+[2025.03.28-18.02.12:308][848]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/japanese-aesthetic-red-dragonymbC03217A54ED1E1625318D19E4F3410CA.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/LevelLayoutImages/japanese-aesthetic-red-dragonymbol-kanji-japan-tattoo-art-ayoub-alessa-transparent_Mat_Auto4.uasset'
+[2025.03.28-18.02.12:310][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ClayPots/Materials/LowPoly/MI_Pot_04] ([1] browsable assets)...
+[2025.03.28-18.02.12:320][848]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/ClayPots/Materials/LowPoly/MI_Pot_04.MI_Pot_04]
+[2025.03.28-18.02.12:320][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/ClayPots/Materials/LowPoly/MI_Pot_04]
+[2025.03.28-18.02.12:324][848]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ClayPots/Materials/LowPoly/MI_Pot_04_Auto4
+[2025.03.28-18.02.12:324][848]LogSavePackage: Moving '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/MI_Pot_04_Auto4BB691F7642CB99D80D0110BC06FF6F05.tmp' to '../../../../../../Users/tiger/OneDrive/Dokumenti/Unreal Projects/YakuzaLevel/FPSFinal/Saved/Autosaves/Game/ClayPots/Materials/LowPoly/MI_Pot_04_Auto4.uasset'
+[2025.03.28-18.02.12:325][848]LogFileHelpers: Auto-saving content packages took 9.720
+[2025.03.28-18.03.13:055][ 31]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenInfov2], Url=[<Redacted>], HttpStatus=[401], ErrorCode=[errors.com.epicgames.common.oauth.invalid_token], NumericErrorCode=[1014], ErrorMessage=[The OAuthToken you are using is not valid], CorrId=[EOS-jxaXP0QdX0G6svfAFg2ZWA-I9s9zu2zeEe54yRVO4nx8Q]
+[2025.03.28-18.03.13:388][ 32]LogEOSSDK: Error: LogEOSAuth: Authentication session lost due to failing verification. Error: EOS_Auth_InvalidToken UserId: cdd...747
+[2025.03.28-18.03.13:390][ 32]LogEOSSDK: Warning: LogEOSPresence: Can't set presence to offline, No connection to EpicConnect. LocalUserId=[cdd...747]
+[2025.03.28-18.05.16:744][401]LogEOSSDK: Warning: LogHttp: 0000090353A09600: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B1F6C7BC6-429C-1B35-6C9D-CEA8221A5101%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.3-32303053%20-%20%2B%2BEOSSDK%2BRelease-1.16.3-CL-32303053&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.03.28-18.05.16:745][401]LogEOSSDK: Warning: LogHttp: 0000090353A09600: request failed, libcurl error: 35 (SSL connect error)
+[2025.03.28-18.05.16:745][401]LogEOSSDK: Warning: LogHttp: 0000090353A09600: libcurl info message cache 0 (Found bundle for host: 0x9033b080360 [serially])
+[2025.03.28-18.05.16:745][401]LogEOSSDK: Warning: LogHttp: 0000090353A09600: libcurl info message cache 1 (Re-using existing connection with host api.epicgames.dev)
+[2025.03.28-18.05.16:745][401]LogEOSSDK: Warning: LogHttp: 0000090353A09600: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.03.28-18.05.16:745][401]LogEOSSDK: Warning: LogHttp: 0000090353A09600: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.03.28-18.05.16:745][401]LogEOSSDK: Warning: LogHttp: 0000090353A09600: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.03.28-18.05.16:745][401]LogEOSSDK: Warning: LogHttp: 0000090353A09600: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2025.03.28-18.05.16:745][401]LogEOSSDK: Warning: LogHttp: 0000090353A09600: libcurl info message cache 6 (Closing connection)
+[2025.03.28-18.05.16:745][402]LogEOSSDK: Warning: LogHttp: 0000090353A09600: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.03.28-18.05.16:746][402]LogEOSSDK: Warning: LogHttp: 0000090353A09600: libcurl info message cache 8 (Issue another request to this URL: 'https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B1F6C7BC6-429C-1B35-6C9D-CEA8221A5101%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.3-32303053%20-%20%2B%2BEOSSDK%2BRelease-1.16.3-CL-32303053&UserID=&AppEnvironment=Production&UploadType=sdkevents')
+[2025.03.28-18.05.16:746][402]LogEOSSDK: Warning: LogHttp: 0000090353A09600: libcurl info message cache 9 (  Trying 107.20.122.221:443...)
+[2025.03.28-18.05.16:746][402]LogEOSSDK: Warning: LogHttp: 0000090353A09600: libcurl info message cache 10 (Connected to api.epicgames.dev (107.20.122.221) port 443)
+[2025.03.28-18.05.16:746][402]LogEOSSDK: Warning: LogHttp: 0000090353A09600: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2025.03.28-18.05.16:746][402]LogEOSSDK: Warning: LogHttp: 0000090353A09600: libcurl info message cache 12 (SSL reusing session ID)
+[2025.03.28-18.05.16:746][402]LogEOSSDK: Warning: LogHttp: 0000090353A09600: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.03.28-18.05.16:746][402]LogEOSSDK: Warning: LogHttp: 0000090353A09600: libcurl info message cache 14 (Recv failure: Connection was reset)
+[2025.03.28-18.05.16:746][402]LogEOSSDK: Warning: LogHttp: 0000090353A09600: libcurl info message cache 15 (OpenSSL SSL_connect: Connection was reset in connection to api.epicgames.dev:443 )
+[2025.03.28-18.05.16:746][402]LogEOSSDK: Warning: LogHttp: 0000090353A09600: libcurl info message cache 16 (Closing connection)
+[2025.03.28-18.05.16:746][402]LogEOSSDK: Warning: LogHttp: 0000090353A09600: libcurl info message cache 17 (Recv failure: Connection was reset)
+[2025.03.28-18.05.16:746][402]LogEOSSDK: Warning: LogHttp: 0000090353A09600: libcurl info message cache 18 (Recv failure: Connection was reset)
+[2025.03.28-18.05.17:064][402]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B1F6C7BC6-429C-1B35-6C9D-CEA8221A5101%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.3-32303053%20-%20%2B%2BEOSSDK%2BRelease-1.16.3-CL-32303053&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.03.28-18.05.18:730][407]LogEOSSDK: Warning: LogHttp: 0000090353A01E00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.3-32303053&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=090B6F8B4E30B78CF333AD8E5EB6CA50, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.03.28-18.05.18:730][407]LogEOSSDK: Warning: LogHttp: 0000090353A01E00: request failed, libcurl error: 35 (SSL connect error)
+[2025.03.28-18.05.18:730][407]LogEOSSDK: Warning: LogHttp: 0000090353A01E00: libcurl info message cache 0 (Found bundle for host: 0x9033b080c90 [serially])
+[2025.03.28-18.05.18:730][407]LogEOSSDK: Warning: LogHttp: 0000090353A01E00: libcurl info message cache 1 (Connection #9 isn't open enough, can't reuse)
+[2025.03.28-18.05.18:730][407]LogEOSSDK: Warning: LogHttp: 0000090353A01E00: libcurl info message cache 2 (Hostname api.epicgames.dev was found in DNS cache)
+[2025.03.28-18.05.18:730][407]LogEOSSDK: Warning: LogHttp: 0000090353A01E00: libcurl info message cache 3 (  Trying 107.20.122.221:443...)
+[2025.03.28-18.05.18:730][407]LogEOSSDK: Warning: LogHttp: 0000090353A01E00: libcurl info message cache 4 (Connected to api.epicgames.dev (107.20.122.221) port 443)
+[2025.03.28-18.05.18:733][408]LogEOSSDK: Warning: LogHttp: 0000090353A01E00: libcurl info message cache 5 (ALPN: curl offers http/1.1)
+[2025.03.28-18.05.18:733][408]LogEOSSDK: Warning: LogHttp: 0000090353A01E00: libcurl info message cache 6 (SSL reusing session ID)
+[2025.03.28-18.05.18:733][408]LogEOSSDK: Warning: LogHttp: 0000090353A01E00: libcurl info message cache 7 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.03.28-18.05.18:733][408]LogEOSSDK: Warning: LogHttp: 0000090353A01E00: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2025.03.28-18.05.18:733][408]LogEOSSDK: Warning: LogHttp: 0000090353A01E00: libcurl info message cache 9 (OpenSSL SSL_connect: Connection was reset in connection to api.epicgames.dev:443 )
+[2025.03.28-18.05.18:733][408]LogEOSSDK: Warning: LogHttp: 0000090353A01E00: libcurl info message cache 10 (Closing connection)
+[2025.03.28-18.05.18:733][408]LogEOSSDK: Warning: LogHttp: 0000090353A01E00: libcurl info message cache 11 (Recv failure: Connection was reset)
+[2025.03.28-18.05.18:733][408]LogEOSSDK: Warning: LogHttp: 0000090353A01E00: libcurl info message cache 12 (Recv failure: Connection was reset)
+[2025.03.28-18.05.18:733][408]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.3-32303053&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=090B6F8B4E30B78CF333AD8E5EB6CA50
+[2025.03.28-18.05.18:733][408]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2025.03.28-18.07.45:113][846]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6650.748535
+[2025.03.28-18.07.46:113][849]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.28-18.07.46:114][850]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6651.415039, Update Interval: 310.979340
