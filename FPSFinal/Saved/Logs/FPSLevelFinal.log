@@ -2320,3 +2320,266 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.04.10-12.56.22:475][291]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
 [2025.04.10-12.56.22:704][291]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.229345s
 [2025.04.10-12.56.23:252][291]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 2.781336s (0.781336s overbudget)
+[2025.04.10-12.58.29:091][953]Cmd: TRANSACTION UNDO
+[2025.04.10-12.58.29:091][953]LogEditorTransaction: Undo Move Elements
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display: ================================================
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display: Total job queries 736, among them cache hits 374 (50.82%), DDC hits 170 (23.10%), Duplicates 64 (8.70%)
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display: Tracking 298 distinct input hashes that result in 241 distinct outputs (80.87%)
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display: RAM used: 1.22 MiB of 1.60 GiB budget. Usage: 0.07%
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display: Shaders Compiled: 128
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display: Jobs assigned 128, completed 128 (100%)
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display: Average time worker was idle: 97.57 s
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display: Time job spent in pending queue: average 1.79 s, longest 7.62 s
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display: Job execution time: average 1.37 s, max 6.27 s
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display: Job life time (pending + execution): average 3.16 s, max 9.32
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display: Shader code size: average 4.977 KiB, min 456 B, max 12.934 KiB
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 43.01 s
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display: Jobs were issued in 128 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display: Average processing rate: 2.98 jobs/sec
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display: Total thread time: 113.208 s
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display: Total thread preprocess time: 10.342 s
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display: Percentage time preprocessing: 9.14%
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display: Effective parallelization: 2.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    3 times, average 2.08 sec, max 2.13 sec, min 1.99 sec)
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    3 times, average 1.50 sec, max 1.74 sec, min 1.04 sec)
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    7 times, average 1.08 sec, max 1.67 sec, min 0.80 sec)
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    3 times, average 1.04 sec, max 1.08 sec, min 1.00 sec)
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    3 times, average 1.03 sec, max 1.05 sec, min 1.02 sec)
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.63% of total time (compiled   27 times, average 0.87 sec, max 1.33 sec, min 0.51 sec)
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 11.58% of total time (compiled   23 times, average 0.57 sec, max 0.85 sec, min 0.40 sec)
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.26% of total time (compiled   12 times, average 0.69 sec, max 0.87 sec, min 0.49 sec)
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display:                                                  FVelocityPS - 6.71% of total time (compiled    7 times, average 1.08 sec, max 1.67 sec, min 0.80 sec)
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.51% of total time (compiled    3 times, average 2.08 sec, max 2.13 sec, min 1.99 sec)
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display: === Material stats ===
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display: Materials Translated:    250
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display: Material Total Translate Time: 0.31 s
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display: Material Translation Only: 0.09 s (28%)
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display: Material Cache Hits: 17 (7%)
+[2025.04.10-12.58.36:461][549]LogShaderCompilers: Display: ================================================
+[2025.04.10-12.59.10:452][682]Cmd: TRANSACTION UNDO
+[2025.04.10-12.59.10:452][682]LogEditorTransaction: Undo Move Elements
+[2025.04.10-12.59.11:505][740]Cmd: TRANSACTION UNDO
+[2025.04.10-12.59.11:505][740]LogEditorTransaction: Undo Scale Elements
+[2025.04.10-12.59.51:917][718]Cmd: DUPLICATE
+[2025.04.10-12.59.51:917][718]Cmd: ACTOR DUPLICATE
+[2025.04.10-12.59.56:912][128]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1710.834229
+[2025.04.10-12.59.57:009][137]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.10-12.59.57:009][138]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1710.922974, Update Interval: 325.915710
+[2025.04.10-13.00.47:486][539]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/textures/stone1.jpeg)
+[2025.04.10-13.00.47:493][539]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/textures/nSoil1.png)
+[2025.04.10-13.00.47:533][539]LogTexture: Display: Building textures: /Game/City/Greenery/textures/nSoil1.nSoil1 (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 213.562488 MB), EncodeSpeed: Fast
+[2025.04.10-13.00.47:633][540]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/textures/internal_ground_ao_texture.jpeg)
+[2025.04.10-13.00.47:634][540]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/textures/a1.png)
+[2025.04.10-13.00.47:639][540]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.04.10-13.00.47:649][540]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/1.fbx)
+[2025.04.10-13.00.47:689][540]LogFbx: Loading FBX Scene from C:/Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/1.fbx
+[2025.04.10-13.00.47:711][540]LogFbx: FBX Scene Loaded Succesfully
+[2025.04.10-13.00.49:624][540]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.04.10-13.00.49:747][540]LogStaticMesh: Built static mesh [0.00s] /Game/City/Greenery/source/1_C3.1_C3
+[2025.04.10-13.00.49:769][540]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.04.10-13.00.49:826][540]LogStaticMesh: Built static mesh [0.02s] /Game/City/Greenery/source/1_G.1_G
+[2025.04.10-13.00.49:859][540]LogStaticMesh: Built static mesh [0.01s] /Game/City/Greenery/source/1_C2.1_C2
+[2025.04.10-13.00.49:930][540]LogStaticMesh: Built static mesh [0.02s] /Game/City/Greenery/source/1_G_2.1_G_2
+[2025.04.10-13.00.49:952][540]LogStaticMesh: Built static mesh [0.00s] /Game/City/Greenery/source/1_C1.1_C1
+[2025.04.10-13.00.50:050][540]LogStaticMesh: Built static mesh [0.04s] /Game/City/Greenery/source/1_G_3.1_G_3
+[2025.04.10-13.00.50:176][541]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.10-13.00.50:274][541]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2025.04.10-13.00.50:277][541]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/City/Greenery/textures/stone1] ([1] browsable assets)...
+[2025.04.10-13.00.50:279][541]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/City/Greenery/textures/stone1.stone1]
+[2025.04.10-13.00.50:279][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Greenery/textures/stone1]
+[2025.04.10-13.00.50:279][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/City/Greenery/textures/stone1" FILE="../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/textures/stone1.uasset" SILENT=true
+[2025.04.10-13.00.50:281][541]LogSavePackage: Moving output files for package: /Game/City/Greenery/textures/stone1
+[2025.04.10-13.00.50:281][541]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/stone19EB50BC342FDB8271BCE21A40E949361.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/textures/stone1.uasset'
+[2025.04.10-13.00.50:282][541]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/City/Greenery/textures/nSoil1] ([1] browsable assets)...
+[2025.04.10-13.00.50:286][541]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/City/Greenery/textures/nSoil1.nSoil1]
+[2025.04.10-13.00.50:286][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Greenery/textures/nSoil1]
+[2025.04.10-13.00.50:286][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/City/Greenery/textures/nSoil1" FILE="../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/textures/nSoil1.uasset" SILENT=true
+[2025.04.10-13.00.50:308][541]LogSavePackage: Moving output files for package: /Game/City/Greenery/textures/nSoil1
+[2025.04.10-13.00.50:308][541]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/nSoil10D9BCEBC451BD225A395E885137838C9.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/textures/nSoil1.uasset'
+[2025.04.10-13.00.50:309][541]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/City/Greenery/textures/internal_ground_ao_texture] ([1] browsable assets)...
+[2025.04.10-13.00.50:313][541]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/City/Greenery/textures/internal_ground_ao_texture.internal_ground_ao_texture]
+[2025.04.10-13.00.50:313][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Greenery/textures/internal_ground_ao_texture]
+[2025.04.10-13.00.50:314][541]LogSavePackage: Moving output files for package: /Game/City/Greenery/textures/internal_ground_ao_texture
+[2025.04.10-13.00.50:314][541]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/internal_ground_ao_texture8D1756AB46E417882A0614B41447ED33.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/textures/internal_ground_ao_texture.uasset'
+[2025.04.10-13.00.50:316][541]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/City/Greenery/textures/a1] ([1] browsable assets)...
+[2025.04.10-13.00.50:317][541]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/City/Greenery/textures/a1.a1]
+[2025.04.10-13.00.50:317][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Greenery/textures/a1]
+[2025.04.10-13.00.50:317][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/City/Greenery/textures/a1" FILE="../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/textures/a1.uasset" SILENT=true
+[2025.04.10-13.00.50:322][541]LogSavePackage: Moving output files for package: /Game/City/Greenery/textures/a1
+[2025.04.10-13.00.50:322][541]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/a1E09CBA1E41A2B7D486729DA467472DFA.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/textures/a1.uasset'
+[2025.04.10-13.00.50:335][541]LogFileHelpers: InternalPromptForCheckoutAndSave took 159.405 ms (total: 1.04 sec)
+[2025.04.10-13.00.50:452][542]LogContentValidation: Display: Starting to validate 4 assets
+[2025.04.10-13.00.50:452][542]LogContentValidation: Enabled validators:
+[2025.04.10-13.00.50:452][542]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.10-13.00.50:452][542]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.10-13.00.50:454][542]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.10-13.00.50:454][542]LogContentValidation: Display: Validating asset /Game/City/Greenery/textures/stone1.stone1
+[2025.04.10-13.00.50:454][542]AssetCheck: /Game/City/Greenery/textures/stone1 Validating asset
+[2025.04.10-13.00.50:454][542]LogContentValidation: Display: Validating asset /Game/City/Greenery/textures/nSoil1.nSoil1
+[2025.04.10-13.00.50:454][542]AssetCheck: /Game/City/Greenery/textures/nSoil1 Validating asset
+[2025.04.10-13.00.50:454][542]LogContentValidation: Display: Validating asset /Game/City/Greenery/textures/internal_ground_ao_texture.internal_ground_ao_texture
+[2025.04.10-13.00.50:454][542]AssetCheck: /Game/City/Greenery/textures/internal_ground_ao_texture Validating asset
+[2025.04.10-13.00.50:454][542]LogContentValidation: Display: Validating asset /Game/City/Greenery/textures/a1.a1
+[2025.04.10-13.00.50:454][542]AssetCheck: /Game/City/Greenery/textures/a1 Validating asset
+[2025.04.10-13.00.53:240][806]LogSlate: Window 'Message Log' being destroyed
+[2025.04.10-13.00.53:249][806]LogSlate: Window 'Message Log' being destroyed
+[2025.04.10-13.00.53:356][807]AssetReimport: Importing new asset /Game/City/Greenery/textures/stone1.
+[2025.04.10-13.00.53:356][807]AssetReimport: Importing new asset /Game/City/Greenery/textures/nSoil1.
+[2025.04.10-13.00.53:356][807]AssetReimport: Importing new asset /Game/City/Greenery/textures/internal_ground_ao_texture.
+[2025.04.10-13.00.53:356][807]AssetReimport: Importing new asset /Game/City/Greenery/textures/a1.
+[2025.04.10-13.00.53:356][807]AssetReimport: Importing new asset /Game/City/Greenery/source/1.
+[2025.04.10-13.00.55:347][975]LogEditorFactories: Performing atomic reimport of [C:/Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/1.fbm/a1.png]
+[2025.04.10-13.00.55:347][975]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/1.fbm/a1.png)
+[2025.04.10-13.00.55:352][975]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.04.10-13.00.55:353][975]LogEditorFactories: -- imported successfully
+[2025.04.10-13.00.55:357][975]LogEditorFactories: Performing atomic reimport of [C:/Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/1.fbm/nSoil1.tif]
+[2025.04.10-13.00.55:364][975]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/1.fbm/nSoil1.tif)
+[2025.04.10-13.00.55:389][975]LogEditorFactories: -- imported successfully
+[2025.04.10-13.00.55:441][976]LogEditorFactories: Performing atomic reimport of [C:/Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/1.fbm/stone1.jpg]
+[2025.04.10-13.00.55:441][976]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/1.fbm/stone1.jpg)
+[2025.04.10-13.00.55:445][976]LogEditorFactories: -- imported successfully
+[2025.04.10-13.00.58:459][257]AssetReimport: Reimported asset a1 from C:/Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/1.fbm/a1.png.
+[2025.04.10-13.00.58:459][257]AssetReimport: Reimported asset nSoil1 from C:/Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/1.fbm/nSoil1.tif.
+[2025.04.10-13.00.58:459][257]AssetReimport: Reimported asset stone1 from C:/Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/1.fbm/stone1.jpg.
+[2025.04.10-13.01.01:393][513]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.10-13.01.01:435][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YakuzaMain" FILE="../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/YakuzaMain.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.04.10-13.01.01:481][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.04.10-13.01.01:539][513]LogSavePackage: Moving output files for package: /Game/YakuzaMain
+[2025.04.10-13.01.01:539][513]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/YakuzaMain78B507F140CA30EE93A8A49B9808C069.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/YakuzaMain.umap'
+[2025.04.10-13.01.01:550][513]LogFileHelpers: Saving map 'YakuzaMain' took 0.115
+[2025.04.10-13.01.01:559][513]LogFileHelpers: InternalPromptForCheckoutAndSave took 165.364 ms (total: 1.21 sec)
+[2025.04.10-13.01.01:614][513]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.10-13.01.01:614][513]LogContentValidation: Enabled validators:
+[2025.04.10-13.01.01:614][513]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.10-13.01.01:614][513]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.10-13.01.01:614][513]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.10-13.01.01:614][513]LogContentValidation: Display: Validating asset /Game/YakuzaMain.YakuzaMain
+[2025.04.10-13.01.01:616][513]AssetCheck: /Game/YakuzaMain Validating asset
+[2025.04.10-13.01.02:050][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.10-13.01.02:099][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YakuzaMain" FILE="../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/YakuzaMain.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.04.10-13.01.02:142][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.04.10-13.01.02:210][559]LogSavePackage: Moving output files for package: /Game/YakuzaMain
+[2025.04.10-13.01.02:211][559]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/YakuzaMainD1C503EE448F82B7A3A71D8D958AC85A.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/YakuzaMain.umap'
+[2025.04.10-13.01.02:220][559]LogFileHelpers: Saving map 'YakuzaMain' took 0.123
+[2025.04.10-13.01.02:235][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 184.844 ms (total: 1.39 sec)
+[2025.04.10-13.01.02:298][559]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.10-13.01.02:298][559]LogContentValidation: Enabled validators:
+[2025.04.10-13.01.02:298][559]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.10-13.01.02:298][559]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.10-13.01.02:298][559]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.10-13.01.02:298][559]LogContentValidation: Display: Validating asset /Game/YakuzaMain.YakuzaMain
+[2025.04.10-13.01.02:298][559]AssetCheck: /Game/YakuzaMain Validating asset
+[2025.04.10-13.01.04:669][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.04.10-13.01.04:673][797]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.10-13.01.04:732][797]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/ti025086/Boolean_CC7E5827] ([1] browsable assets)...
+[2025.04.10-13.01.04:732][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/ti025086/Boolean_CC7E5827]
+[2025.04.10-13.01.04:748][797]LogSavePackage: Moving output files for package: /Game/_GENERATED/ti025086/Boolean_CC7E5827
+[2025.04.10-13.01.04:748][797]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/Boolean_CC7E5827A0B3FBC74666C0596426B8A5F3535D8C.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/_GENERATED/ti025086/Boolean_CC7E5827.uasset'
+[2025.04.10-13.01.04:749][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/City/Greenery/source/1_G_3] ([1] browsable assets)...
+[2025.04.10-13.01.04:766][797]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/City/Greenery/source/1_G_3.1_G_3]
+[2025.04.10-13.01.04:766][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Greenery/source/1_G_3]
+[2025.04.10-13.01.04:766][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/City/Greenery/source/1_G_3" FILE="../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/1_G_3.uasset" SILENT=true
+[2025.04.10-13.01.04:770][797]LogSavePackage: Moving output files for package: /Game/City/Greenery/source/1_G_3
+[2025.04.10-13.01.04:770][797]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/1_G_32C21D9C74CF7706610ACC7A4B9C53D5E.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/1_G_3.uasset'
+[2025.04.10-13.01.04:772][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/City/Greenery/source/1_C3] ([1] browsable assets)...
+[2025.04.10-13.01.04:779][797]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/City/Greenery/source/1_C3.1_C3]
+[2025.04.10-13.01.04:779][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Greenery/source/1_C3]
+[2025.04.10-13.01.04:779][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/City/Greenery/source/1_C3" FILE="../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/1_C3.uasset" SILENT=true
+[2025.04.10-13.01.04:784][797]LogSavePackage: Moving output files for package: /Game/City/Greenery/source/1_C3
+[2025.04.10-13.01.04:784][797]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/1_C34FC2B7C14E26C244A203B0B5D165DBDB.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/1_C3.uasset'
+[2025.04.10-13.01.04:785][797]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/City/Greenery/source/C] ([1] browsable assets)...
+[2025.04.10-13.01.04:785][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Greenery/source/C]
+[2025.04.10-13.01.04:785][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/City/Greenery/source/C" FILE="../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/C.uasset" SILENT=true
+[2025.04.10-13.01.04:787][797]LogSavePackage: Moving output files for package: /Game/City/Greenery/source/C
+[2025.04.10-13.01.04:787][797]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/C060B407B4068C0252B179F943166EBFC.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/C.uasset'
+[2025.04.10-13.01.04:788][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/City/Greenery/source/stone1] ([1] browsable assets)...
+[2025.04.10-13.01.04:791][797]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/City/Greenery/source/stone1.stone1]
+[2025.04.10-13.01.04:791][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Greenery/source/stone1]
+[2025.04.10-13.01.04:791][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/City/Greenery/source/stone1" FILE="../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/stone1.uasset" SILENT=true
+[2025.04.10-13.01.04:793][797]LogSavePackage: Moving output files for package: /Game/City/Greenery/source/stone1
+[2025.04.10-13.01.04:793][797]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/stone10424CC364F718D07D9A4138EDC14F3FF.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/stone1.uasset'
+[2025.04.10-13.01.04:793][797]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/City/Greenery/source/D] ([1] browsable assets)...
+[2025.04.10-13.01.04:793][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Greenery/source/D]
+[2025.04.10-13.01.04:793][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/City/Greenery/source/D" FILE="../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/D.uasset" SILENT=true
+[2025.04.10-13.01.04:794][797]LogSavePackage: Moving output files for package: /Game/City/Greenery/source/D
+[2025.04.10-13.01.04:794][797]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/DEC159C864E6B0104B9D9C48B3E2FE5F1.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/D.uasset'
+[2025.04.10-13.01.04:796][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/City/Greenery/source/nSoil1] ([1] browsable assets)...
+[2025.04.10-13.01.04:797][797]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/City/Greenery/source/nSoil1.nSoil1]
+[2025.04.10-13.01.04:797][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Greenery/source/nSoil1]
+[2025.04.10-13.01.04:797][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/City/Greenery/source/nSoil1" FILE="../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/nSoil1.uasset" SILENT=true
+[2025.04.10-13.01.04:814][797]LogSavePackage: Moving output files for package: /Game/City/Greenery/source/nSoil1
+[2025.04.10-13.01.04:814][797]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/nSoil15C7ED32E404C6560D9025CA84B17F725.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/nSoil1.uasset'
+[2025.04.10-13.01.04:816][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/City/Greenery/source/1_G] ([1] browsable assets)...
+[2025.04.10-13.01.04:823][797]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/City/Greenery/source/1_G.1_G]
+[2025.04.10-13.01.04:823][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Greenery/source/1_G]
+[2025.04.10-13.01.04:823][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/City/Greenery/source/1_G" FILE="../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/1_G.uasset" SILENT=true
+[2025.04.10-13.01.04:827][797]LogSavePackage: Moving output files for package: /Game/City/Greenery/source/1_G
+[2025.04.10-13.01.04:827][797]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/1_GC65DB95242F746A15A2C1B8910A569D3.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/1_G.uasset'
+[2025.04.10-13.01.04:827][797]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/City/Greenery/source/G] ([1] browsable assets)...
+[2025.04.10-13.01.04:827][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Greenery/source/G]
+[2025.04.10-13.01.04:827][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/City/Greenery/source/G" FILE="../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/G.uasset" SILENT=true
+[2025.04.10-13.01.04:829][797]LogSavePackage: Moving output files for package: /Game/City/Greenery/source/G
+[2025.04.10-13.01.04:829][797]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/GFA145DB04EE5F9C426F3A8867D13ADFE.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/G.uasset'
+[2025.04.10-13.01.04:831][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/City/Greenery/source/a1] ([1] browsable assets)...
+[2025.04.10-13.01.04:832][797]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/City/Greenery/source/a1.a1]
+[2025.04.10-13.01.04:832][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Greenery/source/a1]
+[2025.04.10-13.01.04:832][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/City/Greenery/source/a1" FILE="../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/a1.uasset" SILENT=true
+[2025.04.10-13.01.04:837][797]LogSavePackage: Moving output files for package: /Game/City/Greenery/source/a1
+[2025.04.10-13.01.04:837][797]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/a1753BF8C2463046E9740F82B651056B4A.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/a1.uasset'
+[2025.04.10-13.01.04:838][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/City/Greenery/source/1_C2] ([1] browsable assets)...
+[2025.04.10-13.01.04:844][797]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/City/Greenery/source/1_C2.1_C2]
+[2025.04.10-13.01.04:844][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Greenery/source/1_C2]
+[2025.04.10-13.01.04:844][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/City/Greenery/source/1_C2" FILE="../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/1_C2.uasset" SILENT=true
+[2025.04.10-13.01.04:848][797]LogSavePackage: Moving output files for package: /Game/City/Greenery/source/1_C2
+[2025.04.10-13.01.04:848][797]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/1_C2658E4D714E96F3C9788022AE10C4CC87.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/1_C2.uasset'
+[2025.04.10-13.01.04:848][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/City/Greenery/source/1_G_2] ([1] browsable assets)...
+[2025.04.10-13.01.04:856][797]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/City/Greenery/source/1_G_2.1_G_2]
+[2025.04.10-13.01.04:856][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Greenery/source/1_G_2]
+[2025.04.10-13.01.04:856][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/City/Greenery/source/1_G_2" FILE="../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/1_G_2.uasset" SILENT=true
+[2025.04.10-13.01.04:859][797]LogSavePackage: Moving output files for package: /Game/City/Greenery/source/1_G_2
+[2025.04.10-13.01.04:859][797]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/1_G_23D297F3F48CAB1D264F809AF04BD3351.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/1_G_2.uasset'
+[2025.04.10-13.01.04:860][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/City/Greenery/source/1_C1] ([1] browsable assets)...
+[2025.04.10-13.01.04:866][797]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/City/Greenery/source/1_C1.1_C1]
+[2025.04.10-13.01.04:866][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Greenery/source/1_C1]
+[2025.04.10-13.01.04:866][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/City/Greenery/source/1_C1" FILE="../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/1_C1.uasset" SILENT=true
+[2025.04.10-13.01.04:869][797]LogSavePackage: Moving output files for package: /Game/City/Greenery/source/1_C1
+[2025.04.10-13.01.04:869][797]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/1_C1A6BCFAE6441DD8FD59CABF8E11954B6F.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/1_C1.uasset'
+[2025.04.10-13.01.04:887][797]LogFileHelpers: InternalPromptForCheckoutAndSave took 214.170 ms (total: 1.61 sec)
+[2025.04.10-13.01.04:942][797]LogContentValidation: Display: Starting to validate 13 assets
+[2025.04.10-13.01.04:942][797]LogContentValidation: Enabled validators:
+[2025.04.10-13.01.04:942][797]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.10-13.01.04:942][797]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.10-13.01.04:942][797]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.10-13.01.04:942][797]LogContentValidation: Display: Validating asset /Game/_GENERATED/ti025086/Boolean_CC7E5827.Boolean_CC7E5827
+[2025.04.10-13.01.04:942][797]AssetCheck: /Game/_GENERATED/ti025086/Boolean_CC7E5827 Validating asset
+[2025.04.10-13.01.04:942][797]LogContentValidation: Display: Validating asset /Game/City/Greenery/source/1_G_3.1_G_3
+[2025.04.10-13.01.04:942][797]AssetCheck: /Game/City/Greenery/source/1_G_3 Validating asset
+[2025.04.10-13.01.04:942][797]LogContentValidation: Display: Validating asset /Game/City/Greenery/source/1_C3.1_C3
+[2025.04.10-13.01.04:942][797]AssetCheck: /Game/City/Greenery/source/1_C3 Validating asset
+[2025.04.10-13.01.04:942][797]LogContentValidation: Display: Validating asset /Game/City/Greenery/source/C.C
+[2025.04.10-13.01.04:942][797]AssetCheck: /Game/City/Greenery/source/C Validating asset
+[2025.04.10-13.01.04:942][797]LogContentValidation: Display: Validating asset /Game/City/Greenery/source/stone1.stone1
+[2025.04.10-13.01.04:942][797]AssetCheck: /Game/City/Greenery/source/stone1 Validating asset
+[2025.04.10-13.01.04:942][797]LogContentValidation: Display: Validating asset /Game/City/Greenery/source/D.D
+[2025.04.10-13.01.04:942][797]AssetCheck: /Game/City/Greenery/source/D Validating asset
+[2025.04.10-13.01.04:942][797]LogContentValidation: Display: Validating asset /Game/City/Greenery/source/nSoil1.nSoil1
+[2025.04.10-13.01.04:942][797]AssetCheck: /Game/City/Greenery/source/nSoil1 Validating asset
+[2025.04.10-13.01.04:942][797]LogContentValidation: Display: Validating asset /Game/City/Greenery/source/1_G.1_G
+[2025.04.10-13.01.04:942][797]AssetCheck: /Game/City/Greenery/source/1_G Validating asset
+[2025.04.10-13.01.04:942][797]LogContentValidation: Display: Validating asset /Game/City/Greenery/source/G.G
+[2025.04.10-13.01.04:942][797]AssetCheck: /Game/City/Greenery/source/G Validating asset
+[2025.04.10-13.01.04:942][797]LogContentValidation: Display: Validating asset /Game/City/Greenery/source/a1.a1
+[2025.04.10-13.01.04:942][797]AssetCheck: /Game/City/Greenery/source/a1 Validating asset
+[2025.04.10-13.01.04:942][797]LogContentValidation: Display: Validating asset /Game/City/Greenery/source/1_C2.1_C2
+[2025.04.10-13.01.04:942][797]AssetCheck: /Game/City/Greenery/source/1_C2 Validating asset
+[2025.04.10-13.01.04:942][797]LogContentValidation: Display: Validating asset /Game/City/Greenery/source/1_G_2.1_G_2
+[2025.04.10-13.01.04:942][797]AssetCheck: /Game/City/Greenery/source/1_G_2 Validating asset
+[2025.04.10-13.01.04:942][797]LogContentValidation: Display: Validating asset /Game/City/Greenery/source/1_C1.1_C1
+[2025.04.10-13.01.04:942][797]AssetCheck: /Game/City/Greenery/source/1_C1 Validating asset
