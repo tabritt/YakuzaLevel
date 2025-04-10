@@ -5520,3 +5520,205 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.04.10-13.44.54:953][820]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.04.10-13.44.54:953][820]LogContentValidation: Display: Validating asset /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP.ALS_AnimMan_CharacterBP
 [2025.04.10-13.44.54:953][820]AssetCheck: /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP Validating asset
+[2025.04.10-13.48.47:209][173]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.04.10-13.48.47:213][173]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.10-13.48.47:270][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/YakuzaMain" FILE="../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/YakuzaMain.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.04.10-13.48.47:311][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.04.10-13.48.47:378][173]LogSavePackage: Moving output files for package: /Game/YakuzaMain
+[2025.04.10-13.48.47:378][173]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/YakuzaMain01B0E87542EE058360283A9D150298EB.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/YakuzaMain.umap'
+[2025.04.10-13.48.47:388][173]LogFileHelpers: Saving map 'YakuzaMain' took 0.119
+[2025.04.10-13.48.47:388][173]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Megascans/Surfaces/Black_Marble_Tiles_tkogehsi/Medium/blackmarble] ([1] browsable assets)...
+[2025.04.10-13.48.47:388][173]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Surfaces/Black_Marble_Tiles_tkogehsi/Medium/blackmarble]
+[2025.04.10-13.48.47:390][173]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Surfaces/Black_Marble_Tiles_tkogehsi/Medium/blackmarble
+[2025.04.10-13.48.47:391][173]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/blackmarble265AD1BE4D4E196150A47CA222ACF335.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/Fab/Megascans/Surfaces/Black_Marble_Tiles_tkogehsi/Medium/blackmarble.uasset'
+[2025.04.10-13.48.47:393][173]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/City/textures/brickwall] ([1] browsable assets)...
+[2025.04.10-13.48.47:393][173]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/textures/brickwall]
+[2025.04.10-13.48.47:393][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/City/textures/brickwall" FILE="../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/textures/brickwall.uasset" SILENT=true
+[2025.04.10-13.48.47:394][173]LogSavePackage: Moving output files for package: /Game/City/textures/brickwall
+[2025.04.10-13.48.47:394][173]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/brickwall96F64E1E4E4085F6910723B33BBB7602.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/textures/brickwall.uasset'
+[2025.04.10-13.48.47:396][173]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/City/Greenery/textures/BoxPlantCase] ([1] browsable assets)...
+[2025.04.10-13.48.47:396][173]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Greenery/textures/BoxPlantCase]
+[2025.04.10-13.48.47:397][173]LogSavePackage: Moving output files for package: /Game/City/Greenery/textures/BoxPlantCase
+[2025.04.10-13.48.47:397][173]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/BoxPlantCaseEEE40C9B402697850B70EE985426C5E2.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/textures/BoxPlantCase.uasset'
+[2025.04.10-13.48.47:400][173]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/City/Greenery/source/M_1_G_3_G_3F61FBDF495A1D867430F3BF70D69BF2] ([2] browsable assets)...
+[2025.04.10-13.48.47:400][173]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Greenery/source/M_1_G_3_G_3F61FBDF495A1D867430F3BF70D69BF2]
+[2025.04.10-13.48.47:403][173]LogSavePackage: Moving output files for package: /Game/City/Greenery/source/M_1_G_3_G_3F61FBDF495A1D867430F3BF70D69BF2
+[2025.04.10-13.48.47:403][173]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/M_1_G_3_G_3F61FBDF495A1D867430F315F59163439A73E56F526ABA4DFD0FE1.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/source/M_1_G_3_G_3F61FBDF495A1D867430F3BF70D69BF2.uasset'
+[2025.04.10-13.48.47:405][173]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Megascans/Surfaces/Black_Marble_Tiles_tkogehsi/Medium/lightMarble] ([1] browsable assets)...
+[2025.04.10-13.48.47:405][173]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Surfaces/Black_Marble_Tiles_tkogehsi/Medium/lightMarble]
+[2025.04.10-13.48.47:406][173]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Surfaces/Black_Marble_Tiles_tkogehsi/Medium/lightMarble
+[2025.04.10-13.48.47:408][173]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/lightMarbleB3DDE8A64A60A62445C8CBB2BAFB019A.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/Fab/Megascans/Surfaces/Black_Marble_Tiles_tkogehsi/Medium/lightMarble.uasset'
+[2025.04.10-13.48.47:408][173]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Megascans/Surfaces/Black_Marble_Tiles_tkogehsi/Medium/lightMarble_inst] ([1] browsable assets)...
+[2025.04.10-13.48.47:409][173]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Surfaces/Black_Marble_Tiles_tkogehsi/Medium/lightMarble_inst]
+[2025.04.10-13.48.47:410][173]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Surfaces/Black_Marble_Tiles_tkogehsi/Medium/lightMarble_inst
+[2025.04.10-13.48.47:410][173]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/lightMarble_instA2DCDDFD4D63FAE0E7A300BB01F4EEB1.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/Fab/Megascans/Surfaces/Black_Marble_Tiles_tkogehsi/Medium/lightMarble_inst.uasset'
+[2025.04.10-13.48.47:410][173]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/City/Props/source/Material_u1_v1] ([1] browsable assets)...
+[2025.04.10-13.48.47:410][173]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Props/source/Material_u1_v1]
+[2025.04.10-13.48.47:412][173]LogSavePackage: Moving output files for package: /Game/City/Props/source/Material_u1_v1
+[2025.04.10-13.48.47:412][173]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/Material_u1_v1EDDA7F154B0FED7EF80460874BF4276D.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Props/source/Material_u1_v1.uasset'
+[2025.04.10-13.48.47:413][173]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/City/Props/source/Material_u2_v1] ([1] browsable assets)...
+[2025.04.10-13.48.47:413][173]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Props/source/Material_u2_v1]
+[2025.04.10-13.48.47:415][173]LogSavePackage: Moving output files for package: /Game/City/Props/source/Material_u2_v1
+[2025.04.10-13.48.47:415][173]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/Material_u2_v15E23D65841B47B950BF264AAB28CA84C.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Props/source/Material_u2_v1.uasset'
+[2025.04.10-13.48.47:426][173]LogFileHelpers: InternalPromptForCheckoutAndSave took 212.236 ms (total: 5.80 sec)
+[2025.04.10-13.48.47:469][173]LogContentValidation: Display: Starting to validate 10 assets
+[2025.04.10-13.48.47:469][173]LogContentValidation: Enabled validators:
+[2025.04.10-13.48.47:469][173]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.10-13.48.47:469][173]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.10-13.48.47:469][173]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.10-13.48.47:469][173]LogContentValidation: Display: Validating asset /Game/YakuzaMain.YakuzaMain
+[2025.04.10-13.48.47:470][173]AssetCheck: /Game/YakuzaMain Validating asset
+[2025.04.10-13.48.47:470][173]LogContentValidation: Display: Validating asset /Game/Fab/Megascans/Surfaces/Black_Marble_Tiles_tkogehsi/Medium/blackmarble.blackmarble
+[2025.04.10-13.48.47:470][173]AssetCheck: /Game/Fab/Megascans/Surfaces/Black_Marble_Tiles_tkogehsi/Medium/blackmarble Validating asset
+[2025.04.10-13.48.47:470][173]LogContentValidation: Display: Validating asset /Game/City/textures/brickwall.brickwall
+[2025.04.10-13.48.47:470][173]AssetCheck: /Game/City/textures/brickwall Validating asset
+[2025.04.10-13.48.47:470][173]LogContentValidation: Display: Validating asset /Game/City/Greenery/textures/BoxPlantCase.BoxPlantCase
+[2025.04.10-13.48.47:470][173]AssetCheck: /Game/City/Greenery/textures/BoxPlantCase Validating asset
+[2025.04.10-13.48.47:470][173]LogContentValidation: Display: Validating asset /Game/City/Greenery/source/M_1_G_3_G_3F61FBDF495A1D867430F3BF70D69BF2.MI_M_1_G_3_G_3F61FBDF495A1D867430F3BF70D69BF2
+[2025.04.10-13.48.47:470][173]AssetCheck: /Game/City/Greenery/source/M_1_G_3_G_3F61FBDF495A1D867430F3BF70D69BF2 Validating asset
+[2025.04.10-13.48.47:470][173]LogContentValidation: Display: Validating asset /Game/City/Greenery/source/M_1_G_3_G_3F61FBDF495A1D867430F3BF70D69BF2.T_M_1_G_3_G_3F61FBDF495A1D867430F3BF70D69BF2_BaseColor
+[2025.04.10-13.48.47:470][173]AssetCheck: /Game/City/Greenery/source/M_1_G_3_G_3F61FBDF495A1D867430F3BF70D69BF2 Validating asset
+[2025.04.10-13.48.47:470][173]LogContentValidation: Display: Validating asset /Game/Fab/Megascans/Surfaces/Black_Marble_Tiles_tkogehsi/Medium/lightMarble.lightMarble
+[2025.04.10-13.48.47:470][173]AssetCheck: /Game/Fab/Megascans/Surfaces/Black_Marble_Tiles_tkogehsi/Medium/lightMarble Validating asset
+[2025.04.10-13.48.47:470][173]LogContentValidation: Display: Validating asset /Game/Fab/Megascans/Surfaces/Black_Marble_Tiles_tkogehsi/Medium/lightMarble_inst.lightMarble_inst
+[2025.04.10-13.48.47:470][173]AssetCheck: /Game/Fab/Megascans/Surfaces/Black_Marble_Tiles_tkogehsi/Medium/lightMarble_inst Validating asset
+[2025.04.10-13.48.47:470][173]LogContentValidation: Display: Validating asset /Game/City/Props/source/Material_u1_v1.Material_u1_v1
+[2025.04.10-13.48.47:470][173]AssetCheck: /Game/City/Props/source/Material_u1_v1 Validating asset
+[2025.04.10-13.48.47:470][173]LogContentValidation: Display: Validating asset /Game/City/Props/source/Material_u2_v1.Material_u2_v1
+[2025.04.10-13.48.47:470][173]AssetCheck: /Game/City/Props/source/Material_u2_v1 Validating asset
+[2025.04.10-13.48.50:984][322]LogSlate: Window 'Message' being destroyed
+[2025.04.10-13.48.50:995][322]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/City/textures/WoodWall.WoodWall
+(Selecting 'No' will cause all changes to be lost!)
+[2025.04.10-13.48.51:102][322]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2025.04.10-13.48.51:299][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.04.10-13.48.52:661][322]LogSlate: Window 'Message' being destroyed
+[2025.04.10-13.48.52:679][322]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/City/Greenery/textures/BoxPlantCase.BoxPlantCase
+(Selecting 'No' will cause all changes to be lost!)
+[2025.04.10-13.48.52:781][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.04.10-13.48.52:965][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.04.10-13.48.52:995][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.04.10-13.48.54:402][322]LogSlate: Window 'Save Content' being destroyed
+[2025.04.10-13.48.54:429][322]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.10-13.48.54:488][322]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/City/Greenery/textures/BoxPlantCase] ([1] browsable assets)...
+[2025.04.10-13.48.54:534][322]OBJ SavePackage:     Rendered thumbnail for [Material /Game/City/Greenery/textures/BoxPlantCase.BoxPlantCase]
+[2025.04.10-13.48.54:534][322]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/Greenery/textures/BoxPlantCase]
+[2025.04.10-13.48.54:547][322]LogSavePackage: Moving output files for package: /Game/City/Greenery/textures/BoxPlantCase
+[2025.04.10-13.48.54:549][322]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/BoxPlantCase707224A148C8D8EC3736A89AC4A07D8C.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/Greenery/textures/BoxPlantCase.uasset'
+[2025.04.10-13.48.54:549][322]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/City/textures/WoodWall] ([1] browsable assets)...
+[2025.04.10-13.48.54:570][322]OBJ SavePackage:     Rendered thumbnail for [Material /Game/City/textures/WoodWall.WoodWall]
+[2025.04.10-13.48.54:570][322]OBJ SavePackage: Finished generating thumbnails for package [/Game/City/textures/WoodWall]
+[2025.04.10-13.48.54:570][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/City/textures/WoodWall" FILE="../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/textures/WoodWall.uasset" SILENT=true
+[2025.04.10-13.48.54:573][322]LogSavePackage: Moving output files for package: /Game/City/textures/WoodWall
+[2025.04.10-13.48.54:573][322]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/WoodWall075C114047C3E0AE5FFBE5AACE78B24C.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/City/textures/WoodWall.uasset'
+[2025.04.10-13.48.54:586][322]LogFileHelpers: InternalPromptForCheckoutAndSave took 157.410 ms (total: 5.96 sec)
+[2025.04.10-13.48.54:613][322]LogStall: Shutdown...
+[2025.04.10-13.48.54:619][322]LogStall: Shutdown complete.
+[2025.04.10-13.48.54:691][322]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.04.10-13.48.54:691][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.10-13.48.54:738][322]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.04.10-13.48.54:738][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.10-13.48.54:785][322]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.04.10-13.48.54:785][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.10-13.48.54:850][322]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.04.10-13.48.54:850][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.10-13.48.54:900][322]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.04.10-13.48.54:900][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.10-13.48.54:950][322]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.04.10-13.48.54:950][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.10-13.48.54:978][322]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.04.10-13.48.54:978][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.10-13.48.55:043][322]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.10-13.48.55:043][322]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.04.10-13.48.55:043][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.10-13.48.55:094][322]LogSlate: Window 'FPSLevelFinal - Unreal Editor' being destroyed
+[2025.04.10-13.48.55:096][322]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.04.10-13.48.55:166][322]LogContentValidation: Display: Starting to validate 2 assets
+[2025.04.10-13.48.55:166][322]LogContentValidation: Enabled validators:
+[2025.04.10-13.48.55:166][322]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.10-13.48.55:166][322]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.10-13.48.55:166][322]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.10-13.48.55:166][322]LogContentValidation: Display: Validating asset /Game/City/Greenery/textures/BoxPlantCase.BoxPlantCase
+[2025.04.10-13.48.55:166][322]AssetCheck: /Game/City/Greenery/textures/BoxPlantCase Validating asset
+[2025.04.10-13.48.55:166][322]LogContentValidation: Display: Validating asset /Game/City/textures/WoodWall.WoodWall
+[2025.04.10-13.48.55:168][322]AssetCheck: /Game/City/textures/WoodWall Validating asset
+[2025.04.10-13.48.55:191][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.04.10-13.48.55:203][323]Cmd: QUIT_EDITOR
+[2025.04.10-13.48.55:203][323]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.04.10-13.48.55:205][323]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.04.10-13.48.55:206][323]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.04.10-13.48.55:206][323]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.04.10-13.48.55:212][323]LogWorld: UWorld::CleanupWorld for YakuzaMain, bSessionEnded=true, bCleanupResources=true
+[2025.04.10-13.48.55:218][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.10-13.48.55:218][323]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.04.10-13.48.55:218][323]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.04.10-13.48.55:234][323]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.04.10-13.48.55:394][323]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.04.10-13.48.55:404][323]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.04.10-13.48.55:404][323]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.04.10-13.48.55:404][323]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.04.10-13.48.55:510][323]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.04.10-13.48.55:510][323]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.04.10-13.48.55:510][323]LogAudio: Display: Audio Device unregistered from world 'YakuzaMain'.
+[2025.04.10-13.48.55:510][323]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.04.10-13.48.55:510][323]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.04.10-13.48.55:514][323]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.04.10-13.48.55:520][323]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.04.10-13.48.55:520][323]LogAudio: Display: Audio Device Manager Shutdown
+[2025.04.10-13.48.55:526][323]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.04.10-13.48.55:527][323]LogExit: Preparing to exit.
+[2025.04.10-13.48.55:571][323]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2025.04.10-13.48.55:579][323]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.10-13.48.55:579][323]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.10-13.48.55:579][323]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.10-13.48.55:579][323]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.10-13.48.55:579][323]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.10-13.48.55:579][323]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.10-13.48.55:579][323]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.10-13.48.55:579][323]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.10-13.48.55:579][323]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.10-13.48.55:579][323]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.10-13.48.55:579][323]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.10-13.48.55:579][323]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.10-13.48.55:579][323]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.10-13.48.55:579][323]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.10-13.48.55:579][323]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.10-13.48.55:579][323]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.10-13.48.55:579][323]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.10-13.48.55:579][323]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.10-13.48.55:579][323]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.10-13.48.55:579][323]LogPython: Display: Object '/Engine/PythonTypes.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.10-13.48.55:579][323]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.10-13.48.56:568][323]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.04.10-13.48.56:571][323]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.04.10-13.48.56:574][323]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.04.10-13.48.56:576][323]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.04.10-13.48.56:579][323]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.04.10-13.48.56:581][323]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.10-13.48.56:583][323]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.04.10-13.48.56:584][323]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.04.10-13.48.56:587][323]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.04.10-13.48.56:589][323]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.04.10-13.48.56:591][323]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.04.10-13.48.56:593][323]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.04.10-13.48.56:788][323]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.04.10-13.48.56:822][323]LogExit: Editor shut down
+[2025.04.10-13.48.56:826][323]LogExit: Transaction tracking system shut down
+[2025.04.10-13.48.57:208][323]LogExit: Object subsystem successfully closed.
+[2025.04.10-13.48.57:323][323]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.04.10-13.48.58:352][323]MemoryProfiler: Shutdown
+[2025.04.10-13.48.58:354][323]NetworkingProfiler: Shutdown
+[2025.04.10-13.48.58:354][323]LoadingProfiler: Shutdown
+[2025.04.10-13.48.58:354][323]TimingProfiler: Shutdown
+[2025.04.10-13.48.58:488][323]LogOpenImageDenoise: OIDN shutting down
+[2025.04.10-13.48.58:807][323]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.04.10-13.48.58:807][323]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B626DE0D4-48F7-673E-99A5-28A7FAFEB9BC%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=e4ad45fc4304723593228592e309d9a0%7Ccdd0a89876e04d0d8a0aae1c513ee747%7C3d3bb482-f036-44d2-8f7c-68091c7ade67&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.04.10-13.48.59:359][323]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.04.10-13.48.59:361][323]RenderDocPlugin: plugin has been unloaded.
+[2025.04.10-13.48.59:368][323]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.04.10-13.48.59:373][323]LogXGEController: Cleaning working directory: C:/Users/ti025086/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.04.10-13.48.59:380][323]LogPakFile: Destroying PakPlatformFile
+[2025.04.10-13.48.59:513][323]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.04.10-13.48.59:549][323]LogExit: Exiting.
+[2025.04.10-13.48.59:569][323]Log file closed, 04/10/25 09:48:59
