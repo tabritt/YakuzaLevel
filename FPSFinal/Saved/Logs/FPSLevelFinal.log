@@ -12802,3 +12802,923 @@ Script Stack (0 frames) :
 [2025.04.17-15.18.40:395][357]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
 [2025.04.17-15.18.40:418][357]PIE: Server logged in
 [2025.04.17-15.18.40:419][357]PIE: Play in editor total start time 0.148 seconds.
+[2025.04.17-15.18.48:027][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-15.18.48:027][234]LogWorld: BeginTearingDown for /Game/Menu/UEDPIE_0_MainMenu
+[2025.04.17-15.18.48:027][234]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.18.48:027][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.18.48:029][234]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.04.17-15.18.48:029][234]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.04.17-15.18.48:032][234]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.17-15.18.48:038][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.18.48:058][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-15.18.48:058][234]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 57
+[2025.04.17-15.18.48:058][234]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2025.04.17-15.18.48:060][234]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2025.04.17-15.18.48:066][234]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.04.17-15.18.48:112][235]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2025.04.17-15.18.53:368][819]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menu/UIMEN/UBP_MainMenu.UBP_MainMenu
+[2025.04.17-15.18.53:369][819]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_48'.
+[2025.04.17-15.18.53:376][819]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_49'.
+[2025.04.17-15.18.53:385][819]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.04.17-15.18.53:864][819]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2025.04.17-15.18.53:873][819]LogSlate: Took 0.007087 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.04.17-15.19.23:780][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2025.04.17-15.19.23:789][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-15.19.23:827][ 87]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Menu/UIMEN/UBP_MainMenu] ([2] browsable assets)...
+[2025.04.17-15.19.23:835][ 87]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Menu/UIMEN/UBP_MainMenu.UBP_MainMenu]
+[2025.04.17-15.19.23:835][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/UIMEN/UBP_MainMenu]
+[2025.04.17-15.19.23:835][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/UIMEN/UBP_MainMenu" FILE="../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/Menu/UIMEN/UBP_MainMenu.uasset" SILENT=true
+[2025.04.17-15.19.23:845][ 87]LogSavePackage: Moving output files for package: /Game/Menu/UIMEN/UBP_MainMenu
+[2025.04.17-15.19.23:845][ 87]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/UBP_MainMenu82A53D7F4931C6BD5296FBA373D844B4.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/Menu/UIMEN/UBP_MainMenu.uasset'
+[2025.04.17-15.19.23:858][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.231 ms (total: 12.8 sec)
+[2025.04.17-15.19.23:926][ 87]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.17-15.19.23:928][ 87]LogContentValidation: Enabled validators:
+[2025.04.17-15.19.23:928][ 87]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.17-15.19.23:928][ 87]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.17-15.19.23:928][ 87]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.17-15.19.23:928][ 87]LogContentValidation: Display: Validating asset /Game/Menu/UIMEN/UBP_MainMenu.UBP_MainMenu
+[2025.04.17-15.19.23:928][ 87]AssetCheck: /Game/Menu/UIMEN/UBP_MainMenu Validating asset
+[2025.04.17-15.19.24:793][171]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.17-15.19.24:808][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.17-15.19.24:808][171]LogPlayLevel: Creating play world package: /Game/Menu/UEDPIE_0_MainMenu
+[2025.04.17-15.19.24:808][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000874s)
+[2025.04.17-15.19.24:808][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menu/MainMenu.MainMenu to /Game/Menu/UEDPIE_0_MainMenu.MainMenu (0.000905s)
+[2025.04.17-15.19.24:828][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.04.17-15.19.24:829][171]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.04.17-15.19.24:829][171]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/Menu/UEDPIE_0_MainMenu.MainMenu'.
+[2025.04.17-15.19.24:831][171]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2025.04.17-15.19.24:850][171]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2025.04.17-15.19.24:850][171]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.17-15.19.24:850][171]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.17-15.19.24:850][171]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.17-15.19.24:850][171]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.17-15.19.24:850][171]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.17-15.19.24:850][171]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.17-15.19.24:850][171]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.17-15.19.24:850][171]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.17-15.19.24:850][171]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.17-15.19.24:850][171]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.17-15.19.24:850][171]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.17-15.19.24:851][171]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.17-15.19.24:878][171]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.04.17-15.19.24:878][171]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.17-15.19.24:878][171]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.17-15.19.24:878][171]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.17-15.19.24:878][171]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=58
+[2025.04.17-15.19.24:878][171]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=58
+[2025.04.17-15.19.24:879][171]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=58
+[2025.04.17-15.19.24:879][171]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=58
+[2025.04.17-15.19.24:879][171]LogInit: FAudioDevice initialized with ID 58.
+[2025.04.17-15.19.24:879][171]LogAudio: Display: Audio Device (ID: 58) registered with world 'MainMenu'.
+[2025.04.17-15.19.24:879][171]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 58
+[2025.04.17-15.19.24:882][171]LogLoad: Game class is 'GM_Menu_C'
+[2025.04.17-15.19.24:882][171]LogWorld: Bringing World /Game/Menu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.04.17-11.19.24
+[2025.04.17-15.19.24:882][171]LogWorld: Bringing up level for play took: 0.000309
+[2025.04.17-15.19.24:885][171]LogOnline: OSS: Created online subsystem instance for: :Context_107
+[2025.04.17-15.19.24:887][171]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.04.17-15.19.24:887][171]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.04.17-15.19.24:905][171]PIE: Server logged in
+[2025.04.17-15.19.24:905][171]PIE: Play in editor total start time 0.103 seconds.
+[2025.04.17-15.19.50:207][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-15.19.50:207][957]LogWorld: BeginTearingDown for /Game/Menu/UEDPIE_0_MainMenu
+[2025.04.17-15.19.50:207][957]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.19.50:207][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.19.50:207][957]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.04.17-15.19.50:207][957]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.04.17-15.19.50:210][957]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.17-15.19.50:218][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.19.50:238][957]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.17-15.19.50:238][957]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 58
+[2025.04.17-15.19.50:238][957]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2025.04.17-15.19.50:240][957]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2025.04.17-15.19.50:246][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-15.19.50:247][957]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.04.17-15.19.50:289][958]LogPlayLevel: Display: Destroying online subsystem :Context_107
+[2025.04.17-15.20.28:955][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.04.17-15.20.28:963][ 13]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-15.20.29:014][ 13]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Menu/UIMEN/UBP_MainMenu] ([2] browsable assets)...
+[2025.04.17-15.20.29:017][ 13]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Menu/UIMEN/UBP_MainMenu.UBP_MainMenu]
+[2025.04.17-15.20.29:017][ 13]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/UIMEN/UBP_MainMenu]
+[2025.04.17-15.20.29:017][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/UIMEN/UBP_MainMenu" FILE="../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/Menu/UIMEN/UBP_MainMenu.uasset" SILENT=true
+[2025.04.17-15.20.29:037][ 13]LogSavePackage: Moving output files for package: /Game/Menu/UIMEN/UBP_MainMenu
+[2025.04.17-15.20.29:039][ 13]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/UBP_MainMenuEC3232D04C54EA8FA593658103C03D1B.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/Menu/UIMEN/UBP_MainMenu.uasset'
+[2025.04.17-15.20.29:050][ 13]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.312 ms (total: 12.9 sec)
+[2025.04.17-15.20.29:109][ 13]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.17-15.20.29:109][ 13]LogContentValidation: Enabled validators:
+[2025.04.17-15.20.29:109][ 13]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.17-15.20.29:109][ 13]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.17-15.20.29:109][ 13]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.17-15.20.29:109][ 13]LogContentValidation: Display: Validating asset /Game/Menu/UIMEN/UBP_MainMenu.UBP_MainMenu
+[2025.04.17-15.20.29:109][ 13]AssetCheck: /Game/Menu/UIMEN/UBP_MainMenu Validating asset
+[2025.04.17-15.20.34:909][681]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.17-15.20.34:921][681]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.17-15.20.34:921][681]LogPlayLevel: Creating play world package: /Game/Menu/UEDPIE_0_MainMenu
+[2025.04.17-15.20.34:923][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000868s)
+[2025.04.17-15.20.34:923][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menu/MainMenu.MainMenu to /Game/Menu/UEDPIE_0_MainMenu.MainMenu (0.000898s)
+[2025.04.17-15.20.34:943][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.04.17-15.20.34:945][681]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.04.17-15.20.34:946][681]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/Menu/UEDPIE_0_MainMenu.MainMenu'.
+[2025.04.17-15.20.34:946][681]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2025.04.17-15.20.34:965][681]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2025.04.17-15.20.34:965][681]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.17-15.20.34:965][681]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.17-15.20.34:965][681]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.17-15.20.34:965][681]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.17-15.20.34:965][681]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.17-15.20.34:965][681]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.17-15.20.34:965][681]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.17-15.20.34:965][681]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.17-15.20.34:965][681]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.17-15.20.34:965][681]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.17-15.20.34:965][681]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.17-15.20.34:966][681]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.17-15.20.34:992][681]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.04.17-15.20.34:992][681]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.17-15.20.34:992][681]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.17-15.20.34:992][681]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.17-15.20.34:992][681]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=59
+[2025.04.17-15.20.34:992][681]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=59
+[2025.04.17-15.20.34:995][681]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=59
+[2025.04.17-15.20.34:995][681]LogInit: FAudioDevice initialized with ID 59.
+[2025.04.17-15.20.34:995][681]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=59
+[2025.04.17-15.20.34:995][681]LogAudio: Display: Audio Device (ID: 59) registered with world 'MainMenu'.
+[2025.04.17-15.20.34:995][681]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 59
+[2025.04.17-15.20.34:997][681]LogLoad: Game class is 'GM_Menu_C'
+[2025.04.17-15.20.34:997][681]LogWorld: Bringing World /Game/Menu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.04.17-11.20.34
+[2025.04.17-15.20.34:998][681]LogWorld: Bringing up level for play took: 0.000311
+[2025.04.17-15.20.35:000][681]LogOnline: OSS: Created online subsystem instance for: :Context_108
+[2025.04.17-15.20.35:001][681]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.04.17-15.20.35:001][681]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.04.17-15.20.35:023][681]PIE: Server logged in
+[2025.04.17-15.20.35:024][681]PIE: Play in editor total start time 0.106 seconds.
+[2025.04.17-15.21.51:148][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-15.21.51:148][105]LogWorld: BeginTearingDown for /Game/Menu/UEDPIE_0_MainMenu
+[2025.04.17-15.21.51:148][105]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.21.51:148][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.21.51:148][105]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.04.17-15.21.51:148][105]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.04.17-15.21.51:151][105]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.17-15.21.51:157][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.21.51:176][105]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.17-15.21.51:176][105]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 59
+[2025.04.17-15.21.51:176][105]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2025.04.17-15.21.51:178][105]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2025.04.17-15.21.51:181][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-15.21.51:184][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.04.17-15.21.51:224][106]LogPlayLevel: Display: Destroying online subsystem :Context_108
+[2025.04.17-15.21.52:419][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.04.17-15.21.52:427][241]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-15.21.52:476][241]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Menu/UIMEN/UBP_MainMenu] ([2] browsable assets)...
+[2025.04.17-15.21.52:479][241]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Menu/UIMEN/UBP_MainMenu.UBP_MainMenu]
+[2025.04.17-15.21.52:479][241]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/UIMEN/UBP_MainMenu]
+[2025.04.17-15.21.52:479][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/UIMEN/UBP_MainMenu" FILE="../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/Menu/UIMEN/UBP_MainMenu.uasset" SILENT=true
+[2025.04.17-15.21.52:489][241]LogSavePackage: Moving output files for package: /Game/Menu/UIMEN/UBP_MainMenu
+[2025.04.17-15.21.52:489][241]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/UBP_MainMenuAAED0D06408DAFEA5436258ABC27C105.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/Menu/UIMEN/UBP_MainMenu.uasset'
+[2025.04.17-15.21.52:500][241]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.937 ms (total: 12.9 sec)
+[2025.04.17-15.21.52:559][241]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.17-15.21.52:559][241]LogContentValidation: Enabled validators:
+[2025.04.17-15.21.52:559][241]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.17-15.21.52:559][241]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.17-15.21.52:559][241]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.17-15.21.52:559][241]LogContentValidation: Display: Validating asset /Game/Menu/UIMEN/UBP_MainMenu.UBP_MainMenu
+[2025.04.17-15.21.52:560][241]AssetCheck: /Game/Menu/UIMEN/UBP_MainMenu Validating asset
+[2025.04.17-15.22.00:275][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.04.17-15.22.00:284][113]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-15.22.00:344][113]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Menu/UIMEN/UBP_MainMenu] ([2] browsable assets)...
+[2025.04.17-15.22.00:347][113]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Menu/UIMEN/UBP_MainMenu.UBP_MainMenu]
+[2025.04.17-15.22.00:347][113]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/UIMEN/UBP_MainMenu]
+[2025.04.17-15.22.00:347][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/UIMEN/UBP_MainMenu" FILE="../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/Menu/UIMEN/UBP_MainMenu.uasset" SILENT=true
+[2025.04.17-15.22.00:367][113]LogSavePackage: Moving output files for package: /Game/Menu/UIMEN/UBP_MainMenu
+[2025.04.17-15.22.00:367][113]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/UBP_MainMenu6F0265F94CF0A8DC3F7429BDF316483D.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/Menu/UIMEN/UBP_MainMenu.uasset'
+[2025.04.17-15.22.00:378][113]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.555 ms (total: 13.0 sec)
+[2025.04.17-15.22.00:426][113]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.17-15.22.00:426][113]LogContentValidation: Enabled validators:
+[2025.04.17-15.22.00:426][113]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.17-15.22.00:426][113]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.17-15.22.00:426][113]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.17-15.22.00:426][113]LogContentValidation: Display: Validating asset /Game/Menu/UIMEN/UBP_MainMenu.UBP_MainMenu
+[2025.04.17-15.22.00:426][113]AssetCheck: /Game/Menu/UIMEN/UBP_MainMenu Validating asset
+[2025.04.17-15.22.06:666][830]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.17-15.22.06:677][830]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.17-15.22.06:677][830]LogPlayLevel: Creating play world package: /Game/Menu/UEDPIE_0_MainMenu
+[2025.04.17-15.22.06:677][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000937s)
+[2025.04.17-15.22.06:677][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menu/MainMenu.MainMenu to /Game/Menu/UEDPIE_0_MainMenu.MainMenu (0.000968s)
+[2025.04.17-15.22.06:696][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2025.04.17-15.22.06:698][830]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.04.17-15.22.06:699][830]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/Menu/UEDPIE_0_MainMenu.MainMenu'.
+[2025.04.17-15.22.06:699][830]LogPlayLevel: PIE: World Init took: (0.001039s)
+[2025.04.17-15.22.06:717][830]LogAudio: Display: Creating Audio Device:                 Id: 60, Scope: Unique, Realtime: True
+[2025.04.17-15.22.06:717][830]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.17-15.22.06:717][830]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.17-15.22.06:717][830]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.17-15.22.06:717][830]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.17-15.22.06:717][830]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.17-15.22.06:717][830]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.17-15.22.06:717][830]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.17-15.22.06:717][830]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.17-15.22.06:717][830]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.17-15.22.06:717][830]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.17-15.22.06:717][830]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.17-15.22.06:720][830]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.17-15.22.06:747][830]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.04.17-15.22.06:749][830]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.17-15.22.06:749][830]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.17-15.22.06:749][830]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.17-15.22.06:749][830]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=60
+[2025.04.17-15.22.06:749][830]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=60
+[2025.04.17-15.22.06:750][830]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=60
+[2025.04.17-15.22.06:750][830]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=60
+[2025.04.17-15.22.06:750][830]LogInit: FAudioDevice initialized with ID 60.
+[2025.04.17-15.22.06:750][830]LogAudio: Display: Audio Device (ID: 60) registered with world 'MainMenu'.
+[2025.04.17-15.22.06:750][830]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 60
+[2025.04.17-15.22.06:753][830]LogLoad: Game class is 'GM_Menu_C'
+[2025.04.17-15.22.06:753][830]LogWorld: Bringing World /Game/Menu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.04.17-11.22.06
+[2025.04.17-15.22.06:753][830]LogWorld: Bringing up level for play took: 0.000306
+[2025.04.17-15.22.06:755][830]LogOnline: OSS: Created online subsystem instance for: :Context_109
+[2025.04.17-15.22.06:756][830]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.04.17-15.22.06:756][830]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.04.17-15.22.06:773][830]PIE: Server logged in
+[2025.04.17-15.22.06:774][830]PIE: Play in editor total start time 0.1 seconds.
+[2025.04.17-15.23.36:278][559]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9301.887695
+[2025.04.17-15.23.36:349][567]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.17-15.23.36:349][568]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9301.952148, Update Interval: 344.294556
+[2025.04.17-15.24.13:394][158]Cmd: TRANSACTION UNDO
+[2025.04.17-15.24.13:394][158]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.04.17-15.25.42:290][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-15.25.42:290][747]LogWorld: BeginTearingDown for /Game/Menu/UEDPIE_0_MainMenu
+[2025.04.17-15.25.42:290][747]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.25.42:290][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.25.42:290][747]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.04.17-15.25.42:290][747]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.04.17-15.25.42:293][747]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.17-15.25.42:301][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.25.42:322][747]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.17-15.25.42:322][747]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 60
+[2025.04.17-15.25.42:322][747]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2025.04.17-15.25.42:323][747]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2025.04.17-15.25.42:326][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-15.25.42:329][747]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2025.04.17-15.25.42:366][748]LogPlayLevel: Display: Destroying online subsystem :Context_109
+[2025.04.17-15.25.44:782][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.04.17-15.25.44:791][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-15.25.44:872][ 29]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Menu/UIMEN/UBP_MainMenu] ([2] browsable assets)...
+[2025.04.17-15.25.44:875][ 29]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Menu/UIMEN/UBP_MainMenu.UBP_MainMenu]
+[2025.04.17-15.25.44:875][ 29]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/UIMEN/UBP_MainMenu]
+[2025.04.17-15.25.44:875][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/UIMEN/UBP_MainMenu" FILE="../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/Menu/UIMEN/UBP_MainMenu.uasset" SILENT=true
+[2025.04.17-15.25.44:885][ 29]LogSavePackage: Moving output files for package: /Game/Menu/UIMEN/UBP_MainMenu
+[2025.04.17-15.25.44:885][ 29]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/UBP_MainMenu9D120BEE4905B07AB0BEA49C91EED7C5.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/Menu/UIMEN/UBP_MainMenu.uasset'
+[2025.04.17-15.25.44:900][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.942 ms (total: 13.1 sec)
+[2025.04.17-15.25.44:956][ 29]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.17-15.25.44:956][ 29]LogContentValidation: Enabled validators:
+[2025.04.17-15.25.44:956][ 29]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.17-15.25.44:956][ 29]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.17-15.25.44:956][ 29]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.17-15.25.44:957][ 29]LogContentValidation: Display: Validating asset /Game/Menu/UIMEN/UBP_MainMenu.UBP_MainMenu
+[2025.04.17-15.25.44:957][ 29]AssetCheck: /Game/Menu/UIMEN/UBP_MainMenu Validating asset
+[2025.04.17-15.25.46:437][183]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.17-15.25.46:448][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.17-15.25.46:448][183]LogPlayLevel: Creating play world package: /Game/Menu/UEDPIE_0_MainMenu
+[2025.04.17-15.25.46:450][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000913s)
+[2025.04.17-15.25.46:450][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menu/MainMenu.MainMenu to /Game/Menu/UEDPIE_0_MainMenu.MainMenu (0.000945s)
+[2025.04.17-15.25.46:471][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.04.17-15.25.46:474][183]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.04.17-15.25.46:474][183]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/Menu/UEDPIE_0_MainMenu.MainMenu'.
+[2025.04.17-15.25.46:474][183]LogPlayLevel: PIE: World Init took: (0.000968s)
+[2025.04.17-15.25.46:493][183]LogAudio: Display: Creating Audio Device:                 Id: 61, Scope: Unique, Realtime: True
+[2025.04.17-15.25.46:493][183]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.17-15.25.46:493][183]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.17-15.25.46:493][183]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.17-15.25.46:493][183]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.17-15.25.46:493][183]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.17-15.25.46:493][183]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.17-15.25.46:493][183]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.17-15.25.46:493][183]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.17-15.25.46:493][183]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.17-15.25.46:493][183]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.17-15.25.46:493][183]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.17-15.25.46:495][183]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.17-15.25.46:521][183]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.04.17-15.25.46:521][183]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.17-15.25.46:521][183]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.17-15.25.46:521][183]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.17-15.25.46:521][183]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=61
+[2025.04.17-15.25.46:521][183]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=61
+[2025.04.17-15.25.46:523][183]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=61
+[2025.04.17-15.25.46:523][183]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=61
+[2025.04.17-15.25.46:523][183]LogInit: FAudioDevice initialized with ID 61.
+[2025.04.17-15.25.46:523][183]LogAudio: Display: Audio Device (ID: 61) registered with world 'MainMenu'.
+[2025.04.17-15.25.46:523][183]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 61
+[2025.04.17-15.25.46:526][183]LogLoad: Game class is 'GM_Menu_C'
+[2025.04.17-15.25.46:527][183]LogWorld: Bringing World /Game/Menu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.04.17-11.25.46
+[2025.04.17-15.25.46:527][183]LogWorld: Bringing up level for play took: 0.000333
+[2025.04.17-15.25.46:529][183]LogOnline: OSS: Created online subsystem instance for: :Context_110
+[2025.04.17-15.25.46:530][183]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.04.17-15.25.46:530][183]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.04.17-15.25.46:554][183]PIE: Server logged in
+[2025.04.17-15.25.46:554][183]PIE: Play in editor total start time 0.109 seconds.
+[2025.04.17-15.28.27:950][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-15.28.27:951][317]LogWorld: BeginTearingDown for /Game/Menu/UEDPIE_0_MainMenu
+[2025.04.17-15.28.27:951][317]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.28.27:951][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.28.27:951][317]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.04.17-15.28.27:951][317]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.04.17-15.28.27:954][317]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.17-15.28.27:962][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.28.27:982][317]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.17-15.28.27:982][317]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 61
+[2025.04.17-15.28.27:982][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2025.04.17-15.28.27:984][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2025.04.17-15.28.27:987][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-15.28.27:990][317]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2025.04.17-15.28.28:034][318]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2025.04.17-15.28.28:803][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.04.17-15.28.28:811][404]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-15.28.28:873][404]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Menu/UIMEN/UBP_MainMenu] ([2] browsable assets)...
+[2025.04.17-15.28.28:877][404]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Menu/UIMEN/UBP_MainMenu.UBP_MainMenu]
+[2025.04.17-15.28.28:877][404]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/UIMEN/UBP_MainMenu]
+[2025.04.17-15.28.28:877][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/UIMEN/UBP_MainMenu" FILE="../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/Menu/UIMEN/UBP_MainMenu.uasset" SILENT=true
+[2025.04.17-15.28.28:895][404]LogSavePackage: Moving output files for package: /Game/Menu/UIMEN/UBP_MainMenu
+[2025.04.17-15.28.28:897][404]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/UBP_MainMenu632BF54D426C8BF41A1BDCADC9F54F70.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/Menu/UIMEN/UBP_MainMenu.uasset'
+[2025.04.17-15.28.28:908][404]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.624 ms (total: 13.2 sec)
+[2025.04.17-15.28.28:974][404]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.17-15.28.28:974][404]LogContentValidation: Enabled validators:
+[2025.04.17-15.28.28:974][404]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.17-15.28.28:974][404]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.17-15.28.28:974][404]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.17-15.28.28:974][404]LogContentValidation: Display: Validating asset /Game/Menu/UIMEN/UBP_MainMenu.UBP_MainMenu
+[2025.04.17-15.28.28:974][404]AssetCheck: /Game/Menu/UIMEN/UBP_MainMenu Validating asset
+[2025.04.17-15.28.34:931][ 62]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.17-15.28.34:943][ 62]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.17-15.28.34:943][ 62]LogPlayLevel: Creating play world package: /Game/Menu/UEDPIE_0_MainMenu
+[2025.04.17-15.28.34:945][ 62]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000990s)
+[2025.04.17-15.28.34:945][ 62]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menu/MainMenu.MainMenu to /Game/Menu/UEDPIE_0_MainMenu.MainMenu (0.001023s)
+[2025.04.17-15.28.34:966][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.04.17-15.28.34:968][ 62]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.04.17-15.28.34:970][ 62]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/Menu/UEDPIE_0_MainMenu.MainMenu'.
+[2025.04.17-15.28.34:970][ 62]LogPlayLevel: PIE: World Init took: (0.001006s)
+[2025.04.17-15.28.34:987][ 62]LogAudio: Display: Creating Audio Device:                 Id: 62, Scope: Unique, Realtime: True
+[2025.04.17-15.28.34:987][ 62]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.17-15.28.34:987][ 62]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.17-15.28.34:987][ 62]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.17-15.28.34:987][ 62]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.17-15.28.34:987][ 62]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.17-15.28.34:987][ 62]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.17-15.28.34:987][ 62]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.17-15.28.34:987][ 62]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.17-15.28.34:987][ 62]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.17-15.28.34:987][ 62]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.17-15.28.34:987][ 62]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.17-15.28.34:988][ 62]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.17-15.28.35:015][ 62]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.04.17-15.28.35:015][ 62]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.17-15.28.35:015][ 62]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.17-15.28.35:015][ 62]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.17-15.28.35:015][ 62]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=62
+[2025.04.17-15.28.35:015][ 62]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=62
+[2025.04.17-15.28.35:017][ 62]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=62
+[2025.04.17-15.28.35:017][ 62]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=62
+[2025.04.17-15.28.35:017][ 62]LogInit: FAudioDevice initialized with ID 62.
+[2025.04.17-15.28.35:017][ 62]LogAudio: Display: Audio Device (ID: 62) registered with world 'MainMenu'.
+[2025.04.17-15.28.35:017][ 62]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 62
+[2025.04.17-15.28.35:020][ 62]LogLoad: Game class is 'GM_Menu_C'
+[2025.04.17-15.28.35:021][ 62]LogWorld: Bringing World /Game/Menu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.04.17-11.28.35
+[2025.04.17-15.28.35:021][ 62]LogWorld: Bringing up level for play took: 0.000324
+[2025.04.17-15.28.35:022][ 62]LogOnline: OSS: Created online subsystem instance for: :Context_111
+[2025.04.17-15.28.35:024][ 62]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.04.17-15.28.35:024][ 62]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.04.17-15.28.35:039][ 62]PIE: Server logged in
+[2025.04.17-15.28.35:041][ 62]PIE: Play in editor total start time 0.102 seconds.
+[2025.04.17-15.28.36:163][191]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.04.17-15.28.36:163][191]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.04.17-15.28.36:163][191]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/YakuzaMain"
+[2025.04.17-15.28.36:163][191]LogNet: Browse: /Game/YakuzaMain
+[2025.04.17-15.28.36:163][191]LogLoad: LoadMap: /Game/YakuzaMain
+[2025.04.17-15.28.36:163][191]LogWorld: BeginTearingDown for /Game/Menu/UEDPIE_0_MainMenu
+[2025.04.17-15.28.36:164][191]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.28.36:164][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.28.36:164][191]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.04.17-15.28.36:164][191]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.04.17-15.28.36:208][191]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.17-15.28.36:211][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.04.17-15.28.36:323][191]LogAudio: Display: Audio Device (ID: 62) registered with world 'YakuzaMain'.
+[2025.04.17-15.28.36:323][191]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.04.17-15.28.36:323][191]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/UEDPIE_0_YakuzaMain.YakuzaMain'.
+[2025.04.17-15.28.36:323][191]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2025.04.17-15.28.36:323][191]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2025.04.17-15.28.36:324][191]PIE: Warning: Trying to simulate physics on ''/Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.StaticMeshActor_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2025.04.17-15.28.36:368][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_1.CharacterMesh0: Material index 6 is invalid.
+[2025.04.17-15.28.36:368][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_1.CharacterMesh0: Material index 7 is invalid.
+[2025.04.17-15.28.36:368][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_1.CharacterMesh0: Material index 8 is invalid.
+[2025.04.17-15.28.36:368][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_1.CharacterMesh0: Material index 9 is invalid.
+[2025.04.17-15.28.36:368][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_1.CharacterMesh0: Material index 12 is invalid.
+[2025.04.17-15.28.36:368][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_1.CharacterMesh0: Material index 11 is invalid.
+[2025.04.17-15.28.36:368][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_1.CharacterMesh0: Material index 13 is invalid.
+[2025.04.17-15.28.36:368][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_1.CharacterMesh0: Material index 14 is invalid.
+[2025.04.17-15.28.36:368][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_2.CharacterMesh0: Material index 6 is invalid.
+[2025.04.17-15.28.36:368][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_2.CharacterMesh0: Material index 7 is invalid.
+[2025.04.17-15.28.36:368][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_2.CharacterMesh0: Material index 8 is invalid.
+[2025.04.17-15.28.36:368][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_2.CharacterMesh0: Material index 9 is invalid.
+[2025.04.17-15.28.36:368][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_2.CharacterMesh0: Material index 12 is invalid.
+[2025.04.17-15.28.36:368][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_2.CharacterMesh0: Material index 11 is invalid.
+[2025.04.17-15.28.36:368][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_2.CharacterMesh0: Material index 13 is invalid.
+[2025.04.17-15.28.36:368][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_2.CharacterMesh0: Material index 14 is invalid.
+[2025.04.17-15.28.36:370][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_3.CharacterMesh0: Material index 6 is invalid.
+[2025.04.17-15.28.36:370][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_3.CharacterMesh0: Material index 7 is invalid.
+[2025.04.17-15.28.36:370][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_3.CharacterMesh0: Material index 8 is invalid.
+[2025.04.17-15.28.36:370][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_3.CharacterMesh0: Material index 9 is invalid.
+[2025.04.17-15.28.36:370][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_3.CharacterMesh0: Material index 12 is invalid.
+[2025.04.17-15.28.36:370][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_3.CharacterMesh0: Material index 11 is invalid.
+[2025.04.17-15.28.36:370][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_3.CharacterMesh0: Material index 13 is invalid.
+[2025.04.17-15.28.36:370][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_3.CharacterMesh0: Material index 14 is invalid.
+[2025.04.17-15.28.36:371][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_4.CharacterMesh0: Material index 6 is invalid.
+[2025.04.17-15.28.36:371][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_4.CharacterMesh0: Material index 7 is invalid.
+[2025.04.17-15.28.36:371][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_4.CharacterMesh0: Material index 8 is invalid.
+[2025.04.17-15.28.36:371][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_4.CharacterMesh0: Material index 9 is invalid.
+[2025.04.17-15.28.36:371][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_4.CharacterMesh0: Material index 12 is invalid.
+[2025.04.17-15.28.36:371][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_4.CharacterMesh0: Material index 11 is invalid.
+[2025.04.17-15.28.36:371][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_4.CharacterMesh0: Material index 13 is invalid.
+[2025.04.17-15.28.36:371][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_4.CharacterMesh0: Material index 14 is invalid.
+[2025.04.17-15.28.36:371][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_5.CharacterMesh0: Material index 6 is invalid.
+[2025.04.17-15.28.36:371][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_5.CharacterMesh0: Material index 7 is invalid.
+[2025.04.17-15.28.36:371][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_5.CharacterMesh0: Material index 8 is invalid.
+[2025.04.17-15.28.36:371][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_5.CharacterMesh0: Material index 9 is invalid.
+[2025.04.17-15.28.36:371][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_5.CharacterMesh0: Material index 12 is invalid.
+[2025.04.17-15.28.36:371][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_5.CharacterMesh0: Material index 11 is invalid.
+[2025.04.17-15.28.36:371][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_5.CharacterMesh0: Material index 13 is invalid.
+[2025.04.17-15.28.36:371][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_5.CharacterMesh0: Material index 14 is invalid.
+[2025.04.17-15.28.36:373][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_6.CharacterMesh0: Material index 6 is invalid.
+[2025.04.17-15.28.36:373][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_6.CharacterMesh0: Material index 7 is invalid.
+[2025.04.17-15.28.36:373][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_6.CharacterMesh0: Material index 8 is invalid.
+[2025.04.17-15.28.36:373][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_6.CharacterMesh0: Material index 9 is invalid.
+[2025.04.17-15.28.36:373][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_6.CharacterMesh0: Material index 12 is invalid.
+[2025.04.17-15.28.36:373][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_6.CharacterMesh0: Material index 11 is invalid.
+[2025.04.17-15.28.36:373][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_6.CharacterMesh0: Material index 13 is invalid.
+[2025.04.17-15.28.36:373][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_6.CharacterMesh0: Material index 14 is invalid.
+[2025.04.17-15.28.36:384][191]LogWorld: Bringing World /Game/UEDPIE_0_YakuzaMain.YakuzaMain up for play (max tick rate 0) at 2025.04.17-11.28.36
+[2025.04.17-15.28.36:392][191]LogWorld: Bringing up level for play took: 0.067982
+[2025.04.17-15.28.36:394][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0: Material index 6 is invalid.
+[2025.04.17-15.28.36:395][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0: Material index 7 is invalid.
+[2025.04.17-15.28.36:395][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0: Material index 8 is invalid.
+[2025.04.17-15.28.36:395][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0: Material index 9 is invalid.
+[2025.04.17-15.28.36:395][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0: Material index 12 is invalid.
+[2025.04.17-15.28.36:395][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0: Material index 11 is invalid.
+[2025.04.17-15.28.36:395][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0: Material index 13 is invalid.
+[2025.04.17-15.28.36:395][191]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0: Material index 14 is invalid.
+[2025.04.17-15.28.36:398][191]LogLoad: Took 0.234627 seconds to LoadMap(/Game/YakuzaMain)
+[2025.04.17-15.28.36:398][191]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/YakuzaMain
+[2025.04.17-15.28.38:040][305]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.28.38:541][342]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.28.38:944][373]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.28.39:446][410]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.28.40:048][455]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.28.40:202][466]LogBlueprintUserMessages: [BP_Shoot_C_4] 0.0
+[2025.04.17-15.28.41:770][584]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.28.42:225][618]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.28.45:453][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-15.28.45:453][862]LogWorld: BeginTearingDown for /Game/UEDPIE_0_YakuzaMain
+[2025.04.17-15.28.45:453][862]LogWorld: UWorld::CleanupWorld for YakuzaMain, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.28.45:456][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.28.45:457][862]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.04.17-15.28.45:457][862]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.04.17-15.28.45:461][862]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.17-15.28.45:468][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.28.45:486][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-15.28.45:486][862]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 62
+[2025.04.17-15.28.45:486][862]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62
+[2025.04.17-15.28.45:488][862]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62
+[2025.04.17-15.28.45:501][862]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.04.17-15.28.45:665][863]LogPlayLevel: Display: Destroying online subsystem :Context_111
+[2025.04.17-15.28.46:754][962]LogSlate: Window 'Message Log' being destroyed
+[2025.04.17-15.28.46:764][962]LogSlate: Window 'Message Log' being destroyed
+[2025.04.17-15.29.00:732][514]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.29.00:732][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.29.00:803][514]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.04.17-15.29.35:889][340]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.17-15.29.35:899][340]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.17-15.29.35:929][340]LogPlayLevel: Creating play world package: /Game/Menu/UEDPIE_0_MainMenu
+[2025.04.17-15.29.35:929][340]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000932s)
+[2025.04.17-15.29.35:929][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menu/MainMenu.MainMenu to /Game/Menu/UEDPIE_0_MainMenu.MainMenu (0.000973s)
+[2025.04.17-15.29.35:952][340]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2025.04.17-15.29.35:953][340]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.04.17-15.29.35:955][340]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/Menu/UEDPIE_0_MainMenu.MainMenu'.
+[2025.04.17-15.29.35:955][340]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2025.04.17-15.29.35:975][340]LogAudio: Display: Creating Audio Device:                 Id: 63, Scope: Unique, Realtime: True
+[2025.04.17-15.29.35:975][340]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.17-15.29.35:975][340]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.17-15.29.35:975][340]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.17-15.29.35:975][340]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.17-15.29.35:975][340]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.17-15.29.35:975][340]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.17-15.29.35:975][340]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.17-15.29.35:975][340]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.17-15.29.35:975][340]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.17-15.29.35:975][340]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.17-15.29.35:975][340]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.17-15.29.35:977][340]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.17-15.29.36:003][340]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.04.17-15.29.36:003][340]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.17-15.29.36:003][340]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.17-15.29.36:003][340]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.17-15.29.36:003][340]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=63
+[2025.04.17-15.29.36:003][340]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=63
+[2025.04.17-15.29.36:004][340]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=63
+[2025.04.17-15.29.36:004][340]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=63
+[2025.04.17-15.29.36:004][340]LogInit: FAudioDevice initialized with ID 63.
+[2025.04.17-15.29.36:004][340]LogAudio: Display: Audio Device (ID: 63) registered with world 'MainMenu'.
+[2025.04.17-15.29.36:004][340]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 63
+[2025.04.17-15.29.36:007][340]LogLoad: Game class is 'GM_Menu_C'
+[2025.04.17-15.29.36:008][340]LogWorld: Bringing World /Game/Menu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.04.17-11.29.36
+[2025.04.17-15.29.36:008][340]LogWorld: Bringing up level for play took: 0.000340
+[2025.04.17-15.29.36:010][340]LogOnline: OSS: Created online subsystem instance for: :Context_112
+[2025.04.17-15.29.36:011][340]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.04.17-15.29.36:011][340]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.04.17-15.29.36:031][340]PIE: Server logged in
+[2025.04.17-15.29.36:033][340]PIE: Play in editor total start time 0.135 seconds.
+[2025.04.17-15.29.57:150][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-15.29.57:150][767]LogWorld: BeginTearingDown for /Game/Menu/UEDPIE_0_MainMenu
+[2025.04.17-15.29.57:150][767]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.29.57:150][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.29.57:150][767]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.04.17-15.29.57:150][767]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.04.17-15.29.57:153][767]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.17-15.29.57:159][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.29.57:179][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-15.29.57:179][767]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 63
+[2025.04.17-15.29.57:179][767]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63
+[2025.04.17-15.29.57:181][767]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63
+[2025.04.17-15.29.57:187][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.04.17-15.29.57:223][768]LogPlayLevel: Display: Destroying online subsystem :Context_112
+[2025.04.17-15.30.20:103][103]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9705.712891
+[2025.04.17-15.30.20:153][109]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.17-15.30.20:153][109]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9705.754883, Update Interval: 327.439178
+[2025.04.17-15.30.27:608][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2025.04.17-15.30.27:619][917]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-15.30.27:674][917]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Menu/UIMEN/UBP_MainMenu] ([2] browsable assets)...
+[2025.04.17-15.30.27:678][917]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Menu/UIMEN/UBP_MainMenu.UBP_MainMenu]
+[2025.04.17-15.30.27:678][917]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/UIMEN/UBP_MainMenu]
+[2025.04.17-15.30.27:678][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/UIMEN/UBP_MainMenu" FILE="../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/Menu/UIMEN/UBP_MainMenu.uasset" SILENT=true
+[2025.04.17-15.30.27:687][917]LogSavePackage: Moving output files for package: /Game/Menu/UIMEN/UBP_MainMenu
+[2025.04.17-15.30.27:688][917]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/UBP_MainMenu18D3A6674040B345461B108999307BAA.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/Menu/UIMEN/UBP_MainMenu.uasset'
+[2025.04.17-15.30.27:700][917]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.863 ms (total: 13.3 sec)
+[2025.04.17-15.30.27:757][917]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.17-15.30.27:757][917]LogContentValidation: Enabled validators:
+[2025.04.17-15.30.27:757][917]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.17-15.30.27:757][917]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.17-15.30.27:757][917]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.17-15.30.27:757][917]LogContentValidation: Display: Validating asset /Game/Menu/UIMEN/UBP_MainMenu.UBP_MainMenu
+[2025.04.17-15.30.27:757][917]AssetCheck: /Game/Menu/UIMEN/UBP_MainMenu Validating asset
+[2025.04.17-15.30.57:611][740]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.17-15.30.57:625][740]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.17-15.30.57:625][740]LogPlayLevel: Creating play world package: /Game/Menu/UEDPIE_0_MainMenu
+[2025.04.17-15.30.57:627][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001193s)
+[2025.04.17-15.30.57:627][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menu/MainMenu.MainMenu to /Game/Menu/UEDPIE_0_MainMenu.MainMenu (0.001235s)
+[2025.04.17-15.30.57:647][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.04.17-15.30.57:649][740]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.04.17-15.30.57:649][740]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/Menu/UEDPIE_0_MainMenu.MainMenu'.
+[2025.04.17-15.30.57:651][740]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2025.04.17-15.30.57:677][740]LogAudio: Display: Creating Audio Device:                 Id: 64, Scope: Unique, Realtime: True
+[2025.04.17-15.30.57:677][740]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.17-15.30.57:677][740]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.17-15.30.57:677][740]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.17-15.30.57:677][740]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.17-15.30.57:677][740]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.17-15.30.57:677][740]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.17-15.30.57:677][740]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.17-15.30.57:677][740]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.17-15.30.57:677][740]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.17-15.30.57:677][740]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.17-15.30.57:677][740]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.17-15.30.57:678][740]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.17-15.30.57:704][740]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.04.17-15.30.57:704][740]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.17-15.30.57:704][740]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.17-15.30.57:704][740]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.17-15.30.57:704][740]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=64
+[2025.04.17-15.30.57:704][740]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=64
+[2025.04.17-15.30.57:706][740]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=64
+[2025.04.17-15.30.57:706][740]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=64
+[2025.04.17-15.30.57:707][740]LogInit: FAudioDevice initialized with ID 64.
+[2025.04.17-15.30.57:707][740]LogAudio: Display: Audio Device (ID: 64) registered with world 'MainMenu'.
+[2025.04.17-15.30.57:707][740]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 64
+[2025.04.17-15.30.57:772][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-15.30.57:774][740]LogLoad: Game class is 'GM_Menu_C'
+[2025.04.17-15.30.57:774][740]LogWorld: Bringing World /Game/Menu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.04.17-11.30.57
+[2025.04.17-15.30.57:774][740]LogWorld: Bringing up level for play took: 0.000349
+[2025.04.17-15.30.57:777][740]LogOnline: OSS: Created online subsystem instance for: :Context_113
+[2025.04.17-15.30.57:777][740]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.04.17-15.30.57:778][740]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.04.17-15.30.57:778][740]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.04.17-15.30.57:798][740]PIE: Server logged in
+[2025.04.17-15.30.57:798][740]PIE: Play in editor total start time 0.178 seconds.
+[2025.04.17-15.30.59:219][883]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.04.17-15.30.59:219][883]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.04.17-15.30.59:221][883]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/YakuzaMain"
+[2025.04.17-15.30.59:221][883]LogNet: Browse: /Game/YakuzaMain
+[2025.04.17-15.30.59:221][883]LogLoad: LoadMap: /Game/YakuzaMain
+[2025.04.17-15.30.59:221][883]LogWorld: BeginTearingDown for /Game/Menu/UEDPIE_0_MainMenu
+[2025.04.17-15.30.59:221][883]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.30.59:221][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.30.59:221][883]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.04.17-15.30.59:221][883]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.04.17-15.30.59:278][883]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.17-15.30.59:281][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2025.04.17-15.30.59:324][883]LogAudio: Display: Audio Device (ID: 64) registered with world 'YakuzaMain'.
+[2025.04.17-15.30.59:324][883]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.04.17-15.30.59:324][883]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/UEDPIE_0_YakuzaMain.YakuzaMain'.
+[2025.04.17-15.30.59:324][883]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2025.04.17-15.30.59:324][883]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2025.04.17-15.30.59:325][883]PIE: Warning: Trying to simulate physics on ''/Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.StaticMeshActor_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2025.04.17-15.30.59:369][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_1.CharacterMesh0: Material index 6 is invalid.
+[2025.04.17-15.30.59:369][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_1.CharacterMesh0: Material index 7 is invalid.
+[2025.04.17-15.30.59:369][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_1.CharacterMesh0: Material index 8 is invalid.
+[2025.04.17-15.30.59:369][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_1.CharacterMesh0: Material index 9 is invalid.
+[2025.04.17-15.30.59:369][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_1.CharacterMesh0: Material index 12 is invalid.
+[2025.04.17-15.30.59:369][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_1.CharacterMesh0: Material index 11 is invalid.
+[2025.04.17-15.30.59:369][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_1.CharacterMesh0: Material index 13 is invalid.
+[2025.04.17-15.30.59:369][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_1.CharacterMesh0: Material index 14 is invalid.
+[2025.04.17-15.30.59:369][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_2.CharacterMesh0: Material index 6 is invalid.
+[2025.04.17-15.30.59:369][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_2.CharacterMesh0: Material index 7 is invalid.
+[2025.04.17-15.30.59:369][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_2.CharacterMesh0: Material index 8 is invalid.
+[2025.04.17-15.30.59:369][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_2.CharacterMesh0: Material index 9 is invalid.
+[2025.04.17-15.30.59:369][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_2.CharacterMesh0: Material index 12 is invalid.
+[2025.04.17-15.30.59:369][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_2.CharacterMesh0: Material index 11 is invalid.
+[2025.04.17-15.30.59:369][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_2.CharacterMesh0: Material index 13 is invalid.
+[2025.04.17-15.30.59:369][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_2.CharacterMesh0: Material index 14 is invalid.
+[2025.04.17-15.30.59:371][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_3.CharacterMesh0: Material index 6 is invalid.
+[2025.04.17-15.30.59:371][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_3.CharacterMesh0: Material index 7 is invalid.
+[2025.04.17-15.30.59:371][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_3.CharacterMesh0: Material index 8 is invalid.
+[2025.04.17-15.30.59:371][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_3.CharacterMesh0: Material index 9 is invalid.
+[2025.04.17-15.30.59:371][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_3.CharacterMesh0: Material index 12 is invalid.
+[2025.04.17-15.30.59:371][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_3.CharacterMesh0: Material index 11 is invalid.
+[2025.04.17-15.30.59:371][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_3.CharacterMesh0: Material index 13 is invalid.
+[2025.04.17-15.30.59:371][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_3.CharacterMesh0: Material index 14 is invalid.
+[2025.04.17-15.30.59:371][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_4.CharacterMesh0: Material index 6 is invalid.
+[2025.04.17-15.30.59:371][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_4.CharacterMesh0: Material index 7 is invalid.
+[2025.04.17-15.30.59:371][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_4.CharacterMesh0: Material index 8 is invalid.
+[2025.04.17-15.30.59:371][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_4.CharacterMesh0: Material index 9 is invalid.
+[2025.04.17-15.30.59:371][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_4.CharacterMesh0: Material index 12 is invalid.
+[2025.04.17-15.30.59:371][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_4.CharacterMesh0: Material index 11 is invalid.
+[2025.04.17-15.30.59:371][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_4.CharacterMesh0: Material index 13 is invalid.
+[2025.04.17-15.30.59:371][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_4.CharacterMesh0: Material index 14 is invalid.
+[2025.04.17-15.30.59:372][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_5.CharacterMesh0: Material index 6 is invalid.
+[2025.04.17-15.30.59:372][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_5.CharacterMesh0: Material index 7 is invalid.
+[2025.04.17-15.30.59:372][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_5.CharacterMesh0: Material index 8 is invalid.
+[2025.04.17-15.30.59:372][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_5.CharacterMesh0: Material index 9 is invalid.
+[2025.04.17-15.30.59:372][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_5.CharacterMesh0: Material index 12 is invalid.
+[2025.04.17-15.30.59:372][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_5.CharacterMesh0: Material index 11 is invalid.
+[2025.04.17-15.30.59:372][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_5.CharacterMesh0: Material index 13 is invalid.
+[2025.04.17-15.30.59:372][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_5.CharacterMesh0: Material index 14 is invalid.
+[2025.04.17-15.30.59:374][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_6.CharacterMesh0: Material index 6 is invalid.
+[2025.04.17-15.30.59:374][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_6.CharacterMesh0: Material index 7 is invalid.
+[2025.04.17-15.30.59:374][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_6.CharacterMesh0: Material index 8 is invalid.
+[2025.04.17-15.30.59:374][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_6.CharacterMesh0: Material index 9 is invalid.
+[2025.04.17-15.30.59:374][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_6.CharacterMesh0: Material index 12 is invalid.
+[2025.04.17-15.30.59:374][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_6.CharacterMesh0: Material index 11 is invalid.
+[2025.04.17-15.30.59:374][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_6.CharacterMesh0: Material index 13 is invalid.
+[2025.04.17-15.30.59:374][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_6.CharacterMesh0: Material index 14 is invalid.
+[2025.04.17-15.30.59:384][883]LogWorld: Bringing World /Game/UEDPIE_0_YakuzaMain.YakuzaMain up for play (max tick rate 0) at 2025.04.17-11.30.59
+[2025.04.17-15.30.59:391][883]LogWorld: Bringing up level for play took: 0.067765
+[2025.04.17-15.30.59:394][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0: Material index 6 is invalid.
+[2025.04.17-15.30.59:394][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0: Material index 7 is invalid.
+[2025.04.17-15.30.59:394][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0: Material index 8 is invalid.
+[2025.04.17-15.30.59:394][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0: Material index 9 is invalid.
+[2025.04.17-15.30.59:394][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0: Material index 12 is invalid.
+[2025.04.17-15.30.59:394][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0: Material index 11 is invalid.
+[2025.04.17-15.30.59:394][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0: Material index 13 is invalid.
+[2025.04.17-15.30.59:394][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0: Material index 14 is invalid.
+[2025.04.17-15.30.59:399][883]LogLoad: Took 0.178014 seconds to LoadMap(/Game/YakuzaMain)
+[2025.04.17-15.30.59:399][883]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/YakuzaMain
+[2025.04.17-15.31.00:091][926]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.31.00:806][974]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.31.01:210][  1]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.31.01:434][ 16]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.31.01:696][ 34]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.31.02:012][ 55]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.31.04:124][202]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.31.04:223][208]LogBlueprintUserMessages: [BP_Shoot_C_6] 0.0
+[2025.04.17-15.31.15:061][992]LogBlueprintUserMessages: [BP_Door1_C_1] closing
+[2025.04.17-15.31.16:374][ 86]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.31.16:682][107]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.31.17:118][138]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.31.17:547][168]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.31.17:696][178]LogBlueprintUserMessages: [BP_Shoot_C_14] 0.0
+[2025.04.17-15.31.19:065][276]LogBlueprintUserMessages: [BP_Door1_C_1] closing
+[2025.04.17-15.31.23:073][563]LogBlueprintUserMessages: [BP_Door1_C_1] closing
+[2025.04.17-15.31.27:093][858]LogBlueprintUserMessages: [BP_Door1_C_1] closing
+[2025.04.17-15.31.31:100][155]LogBlueprintUserMessages: [BP_Door1_C_1] closing
+[2025.04.17-15.31.35:110][434]LogBlueprintUserMessages: [BP_Door1_C_1] closing
+[2025.04.17-15.31.39:121][707]LogBlueprintUserMessages: [BP_Door1_C_1] closing
+[2025.04.17-15.31.42:791][983]LogCharacterMovement: BP_Enemy_C_2 is stuck and failed to move! Velocity: X=-291.45 Y=71.09 Z=0.00 Location: X=-2104.66 Y=-2806.92 Z=1949.17 Normal: X=0.94 Y=-0.33 Z=-0.00 PenetrationDepth:2.851 Actor:ALS_AnimMan_CharacterBP_C_2 Component:lod_model_LOD0 BoneName:None (0 other events since notify)
+[2025.04.17-15.31.43:129][  6]LogBlueprintUserMessages: [BP_Door1_C_1] closing
+[2025.04.17-15.31.43:638][ 42]LogCharacterMovement: ALS_AnimMan_CharacterBP_C_6 is stuck and failed to move! Velocity: X=-359.62 Y=-106.28 Z=0.00 Location: X=-1160.58 Y=-4122.86 Z=1973.01 Normal: X=0.98 Y=0.18 Z=0.00 PenetrationDepth:1.078 Actor:ALS_AnimMan_CharacterBP_C_1 Component:lod_model_LOD0 BoneName:None (0 other events since notify)
+[2025.04.17-15.31.44:651][113]LogCharacterMovement: ALS_AnimMan_CharacterBP_C_6 is stuck and failed to move! Velocity: X=-359.11 Y=-108.00 Z=0.00 Location: X=-1160.17 Y=-4120.36 Z=1970.96 Normal: X=0.81 Y=-0.59 Z=0.00 PenetrationDepth:3.806 Actor:ALS_AnimMan_CharacterBP_C_1 Component:lod_model_LOD0 BoneName:None (49 other events since notify)
+[2025.04.17-15.31.45:663][185]LogCharacterMovement: ALS_AnimMan_CharacterBP_C_6 is stuck and failed to move! Velocity: X=-359.11 Y=-108.00 Z=0.00 Location: X=-1160.17 Y=-4120.36 Z=1970.96 Normal: X=0.76 Y=-0.65 Z=-0.00 PenetrationDepth:6.743 Actor:ALS_AnimMan_CharacterBP_C_1 Component:lod_model_LOD0 BoneName:None (71 other events since notify)
+[2025.04.17-15.31.46:671][257]LogCharacterMovement: ALS_AnimMan_CharacterBP_C_6 is stuck and failed to move! Velocity: X=-359.11 Y=-108.00 Z=0.00 Location: X=-1160.17 Y=-4120.36 Z=1970.96 Normal: X=0.79 Y=-0.62 Z=0.00 PenetrationDepth:4.044 Actor:ALS_AnimMan_CharacterBP_C_1 Component:lod_model_LOD0 BoneName:None (71 other events since notify)
+[2025.04.17-15.31.47:133][290]LogBlueprintUserMessages: [BP_Door1_C_1] closing
+[2025.04.17-15.31.47:676][330]LogCharacterMovement: ALS_AnimMan_CharacterBP_C_6 is stuck and failed to move! Velocity: X=-359.11 Y=-108.00 Z=0.00 Location: X=-1160.17 Y=-4120.36 Z=1970.96 Normal: X=0.80 Y=-0.60 Z=0.00 PenetrationDepth:6.437 Actor:ALS_AnimMan_CharacterBP_C_1 Component:lod_model_LOD0 BoneName:None (72 other events since notify)
+[2025.04.17-15.31.51:144][563]LogBlueprintUserMessages: [BP_Door1_C_1] closing
+[2025.04.17-15.31.54:341][781]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.31.55:016][828]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.31.55:142][836]LogBlueprintUserMessages: [BP_Door1_C_1] closing
+[2025.04.17-15.31.55:222][842]LogBlueprintUserMessages: [BP_Shoot_C_19] 0.0
+[2025.04.17-15.31.55:301][847]LogBlueprintUserMessages: [BP_Shoot_C_19] 0.0
+[2025.04.17-15.31.57:322][994]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP.ALS_AnimMan_CharacterBP_C:ExecuteUbergraph_ALS_AnimMan_CharacterBP'!
+[2025.04.17-15.31.57:322][994]LogScript: Warning: Script Msg called by: ALS_AnimMan_CharacterBP_C /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_0
+[2025.04.17-15.31.57:322][994]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP.ALS_AnimMan_CharacterBP_C:ExecuteUbergraph_ALS_AnimMan_CharacterBP'!
+[2025.04.17-15.31.57:322][994]LogScript: Warning: Script Msg called by: ALS_AnimMan_CharacterBP_C /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_0
+[2025.04.17-15.31.57:322][994]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP.ALS_AnimMan_CharacterBP_C:ExecuteUbergraph_ALS_AnimMan_CharacterBP'!
+[2025.04.17-15.31.57:322][994]LogScript: Warning: Script Msg called by: ALS_AnimMan_CharacterBP_C /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_0
+[2025.04.17-15.31.58:196][ 56]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] ALS_AnimMan_CharacterBP_C_0.StaticMesh
+[2025.04.17-15.31.58:196][ 56]LogBlueprintUserMessages: [BP_Put_C_1] picking
+[2025.04.17-15.31.58:397][ 70]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] ADD ANIMATION WHERE THIS NODE IS
+[2025.04.17-15.31.59:152][122]LogBlueprintUserMessages: [BP_Door1_C_1] closing
+[2025.04.17-15.32.03:160][410]LogBlueprintUserMessages: [BP_Door1_C_1] closing
+[2025.04.17-15.32.05:635][595]LogCharacterMovement: ALS_Base_CharacterBP_C_4 is stuck and failed to move! Velocity: X=23.60 Y=-11.40 Z=0.00 Location: X=137.04 Y=-3661.38 Z=1951.17 Normal: X=-0.55 Y=-0.84 Z=0.00 PenetrationDepth:0.774 Actor:ALS_AnimMan_CharacterBP_C_6 Component:lod_model_LOD0 BoneName:None (0 other events since notify)
+[2025.04.17-15.32.07:165][712]LogBlueprintUserMessages: [BP_Door1_C_1] closing
+[2025.04.17-15.32.09:434][880]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.32.10:216][937]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.32.11:183][  8]LogBlueprintUserMessages: [BP_Door1_C_1] closing
+[2025.04.17-15.32.15:189][304]LogBlueprintUserMessages: [BP_Door1_C_1] closing
+[2025.04.17-15.32.19:194][607]LogBlueprintUserMessages: [BP_Door1_C_1] closing
+[2025.04.17-15.32.19:569][635]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.32.20:342][692]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.32.21:196][753]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.32.23:201][901]LogBlueprintUserMessages: [BP_Door1_C_1] closing
+[2025.04.17-15.32.23:989][959]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.32.24:848][ 21]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.32.25:448][ 65]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.32.27:204][191]LogBlueprintUserMessages: [BP_Door1_C_1] closing
+[2025.04.17-15.32.27:391][205]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.32.28:195][264]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.32.28:365][276]LogBlueprintUserMessages: [BP_Shoot_C_29] 0.0
+[2025.04.17-15.32.29:665][372]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.32.30:192][410]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.32.30:825][456]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.32.30:958][465]LogBlueprintUserMessages: [BP_Shoot_C_32] 0.0
+[2025.04.17-15.32.31:209][484]LogBlueprintUserMessages: [BP_Door1_C_1] closing
+[2025.04.17-15.32.35:209][778]LogBlueprintUserMessages: [BP_Door1_C_1] closing
+[2025.04.17-15.32.36:501][873]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] shooting
+[2025.04.17-15.32.36:653][884]LogBlueprintUserMessages: [BP_Shoot_C_33] 0.0
+[2025.04.17-15.32.39:216][ 74]LogBlueprintUserMessages: [BP_Door1_C_1] closing
+[2025.04.17-15.32.40:107][142]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP.ALS_AnimMan_CharacterBP_C:ExecuteUbergraph_ALS_AnimMan_CharacterBP'!
+[2025.04.17-15.32.40:107][142]LogScript: Warning: Script Msg called by: ALS_AnimMan_CharacterBP_C /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_0
+[2025.04.17-15.32.40:107][142]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP.ALS_AnimMan_CharacterBP_C:ExecuteUbergraph_ALS_AnimMan_CharacterBP'!
+[2025.04.17-15.32.40:107][142]LogScript: Warning: Script Msg called by: ALS_AnimMan_CharacterBP_C /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_0
+[2025.04.17-15.32.40:107][142]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP.ALS_AnimMan_CharacterBP_C:ExecuteUbergraph_ALS_AnimMan_CharacterBP'!
+[2025.04.17-15.32.40:107][142]LogScript: Warning: Script Msg called by: ALS_AnimMan_CharacterBP_C /Game/UEDPIE_0_YakuzaMain.YakuzaMain:PersistentLevel.ALS_AnimMan_CharacterBP_C_0
+[2025.04.17-15.32.40:771][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-15.32.40:771][191]LogWorld: BeginTearingDown for /Game/UEDPIE_0_YakuzaMain
+[2025.04.17-15.32.40:772][191]LogSlate: Window 'AdvancedLocomotionV4 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM5)' being destroyed
+[2025.04.17-15.32.40:782][191]LogWorld: UWorld::CleanupWorld for YakuzaMain, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.32.40:787][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.32.40:787][191]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.04.17-15.32.40:787][191]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.04.17-15.32.40:789][191]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.17-15.32.40:797][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.32.40:816][191]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 64
+[2025.04.17-15.32.40:816][191]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2025.04.17-15.32.40:817][191]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2025.04.17-15.32.40:829][191]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.04.17-15.32.40:988][192]LogPlayLevel: Display: Destroying online subsystem :Context_113
+[2025.04.17-15.32.42:364][324]LogSlate: Window 'Message Log' being destroyed
+[2025.04.17-15.32.42:370][324]LogSlate: Window 'Message Log' being destroyed
+[2025.04.17-15.32.46:793][830]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.17-15.32.46:806][830]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.17-15.32.46:806][830]LogPlayLevel: Creating play world package: /Game/Menu/UEDPIE_0_MainMenu
+[2025.04.17-15.32.46:808][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000943s)
+[2025.04.17-15.32.46:808][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menu/MainMenu.MainMenu to /Game/Menu/UEDPIE_0_MainMenu.MainMenu (0.000974s)
+[2025.04.17-15.32.46:829][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.04.17-15.32.46:831][830]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.04.17-15.32.46:832][830]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/Menu/UEDPIE_0_MainMenu.MainMenu'.
+[2025.04.17-15.32.46:832][830]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2025.04.17-15.32.46:849][830]LogAudio: Display: Creating Audio Device:                 Id: 65, Scope: Unique, Realtime: True
+[2025.04.17-15.32.46:849][830]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.17-15.32.46:849][830]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.17-15.32.46:849][830]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.17-15.32.46:849][830]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.17-15.32.46:849][830]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.17-15.32.46:849][830]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.17-15.32.46:849][830]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.17-15.32.46:849][830]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.17-15.32.46:849][830]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.17-15.32.46:849][830]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.17-15.32.46:849][830]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.17-15.32.46:851][830]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.17-15.32.46:877][830]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.04.17-15.32.46:877][830]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.17-15.32.46:877][830]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.17-15.32.46:877][830]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.17-15.32.46:877][830]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=65
+[2025.04.17-15.32.46:877][830]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=65
+[2025.04.17-15.32.46:881][830]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=65
+[2025.04.17-15.32.46:881][830]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=65
+[2025.04.17-15.32.46:881][830]LogInit: FAudioDevice initialized with ID 65.
+[2025.04.17-15.32.46:881][830]LogAudio: Display: Audio Device (ID: 65) registered with world 'MainMenu'.
+[2025.04.17-15.32.46:881][830]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 65
+[2025.04.17-15.32.46:882][830]LogLoad: Game class is 'GM_Menu_C'
+[2025.04.17-15.32.46:882][830]LogWorld: Bringing World /Game/Menu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.04.17-11.32.46
+[2025.04.17-15.32.46:884][830]LogWorld: Bringing up level for play took: 0.000298
+[2025.04.17-15.32.46:885][830]LogOnline: OSS: Created online subsystem instance for: :Context_114
+[2025.04.17-15.32.46:887][830]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.04.17-15.32.46:887][830]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.04.17-15.32.46:905][830]PIE: Server logged in
+[2025.04.17-15.32.46:905][830]PIE: Play in editor total start time 0.103 seconds.
+[2025.04.17-15.32.48:532][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-15.32.48:532][ 12]LogWorld: BeginTearingDown for /Game/Menu/UEDPIE_0_MainMenu
+[2025.04.17-15.32.48:532][ 12]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.32.48:532][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.32.48:532][ 12]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.04.17-15.32.48:532][ 12]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.04.17-15.32.48:535][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.17-15.32.48:541][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.32.48:561][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-15.32.48:561][ 12]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 65
+[2025.04.17-15.32.48:561][ 12]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65
+[2025.04.17-15.32.48:563][ 12]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65
+[2025.04.17-15.32.48:569][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.04.17-15.32.48:613][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_114
+[2025.04.17-15.34.24:784][679]LogInterchangeEngine: [Pending] Importing
+[2025.04.17-15.34.24:784][679]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/ti025086/Downloads/tiger_poster_but_wide.png]
+[2025.04.17-15.34.24:819][680]LogInterchangeEngine: [Pending] Importing
+[2025.04.17-15.34.25:078][680]LogTexture: Display: Building textures: /Game/tiger_poster_but_wide.tiger_poster_but_wide (BGRA8, 1376x774 x1x1x1) (Required Memory Estimate: 31.210205 MB), EncodeSpeed: Fast
+[2025.04.17-15.34.25:410][681]LogInterchangeEngine: Display: Interchange import completed [C:/Users/ti025086/Downloads/tiger_poster_but_wide.png]
+[2025.04.17-15.34.25:421][681]LogInterchangeEngine: [Success] Import Done
+[2025.04.17-15.34.25:501][681]LogInterchangeEngine: [Success] Import Done
+[2025.04.17-15.34.57:441][727]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2025.04.17-15.34.57:453][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-15.34.57:505][727]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Menu/UIMEN/UBP_MainMenu] ([2] browsable assets)...
+[2025.04.17-15.34.57:508][727]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Menu/UIMEN/UBP_MainMenu.UBP_MainMenu]
+[2025.04.17-15.34.57:508][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu/UIMEN/UBP_MainMenu]
+[2025.04.17-15.34.57:508][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/UIMEN/UBP_MainMenu" FILE="../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/Menu/UIMEN/UBP_MainMenu.uasset" SILENT=true
+[2025.04.17-15.34.57:530][727]LogSavePackage: Moving output files for package: /Game/Menu/UIMEN/UBP_MainMenu
+[2025.04.17-15.34.57:531][727]LogSavePackage: Moving '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Saved/UBP_MainMenu29D4BF8541F92D3829D71FBB376DE836.tmp' to '../../../../../../Users/ti025086/Documents/GitHub/YakuzaLevel/FPSFinal/Content/Menu/UIMEN/UBP_MainMenu.uasset'
+[2025.04.17-15.34.57:541][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.491 ms (total: 13.4 sec)
+[2025.04.17-15.34.57:604][727]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.17-15.34.57:606][727]LogContentValidation: Enabled validators:
+[2025.04.17-15.34.57:606][727]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.17-15.34.57:606][727]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.17-15.34.57:606][727]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.17-15.34.57:606][727]LogContentValidation: Display: Validating asset /Game/Menu/UIMEN/UBP_MainMenu.UBP_MainMenu
+[2025.04.17-15.34.57:606][727]AssetCheck: /Game/Menu/UIMEN/UBP_MainMenu Validating asset
+[2025.04.17-15.34.59:464][922]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.17-15.34.59:476][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.17-15.34.59:476][922]LogPlayLevel: Creating play world package: /Game/Menu/UEDPIE_0_MainMenu
+[2025.04.17-15.34.59:478][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001060s)
+[2025.04.17-15.34.59:478][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menu/MainMenu.MainMenu to /Game/Menu/UEDPIE_0_MainMenu.MainMenu (0.001115s)
+[2025.04.17-15.34.59:500][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.04.17-15.34.59:501][922]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.04.17-15.34.59:503][922]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/Menu/UEDPIE_0_MainMenu.MainMenu'.
+[2025.04.17-15.34.59:503][922]LogPlayLevel: PIE: World Init took: (0.001186s)
+[2025.04.17-15.34.59:521][922]LogAudio: Display: Creating Audio Device:                 Id: 66, Scope: Unique, Realtime: True
+[2025.04.17-15.34.59:521][922]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.17-15.34.59:521][922]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.17-15.34.59:521][922]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.17-15.34.59:521][922]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.17-15.34.59:521][922]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.17-15.34.59:521][922]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.17-15.34.59:521][922]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.17-15.34.59:521][922]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.17-15.34.59:521][922]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.17-15.34.59:521][922]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.17-15.34.59:521][922]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.17-15.34.59:523][922]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.17-15.34.59:553][922]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.04.17-15.34.59:553][922]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.17-15.34.59:553][922]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.17-15.34.59:553][922]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.17-15.34.59:553][922]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=66
+[2025.04.17-15.34.59:553][922]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=66
+[2025.04.17-15.34.59:555][922]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=66
+[2025.04.17-15.34.59:555][922]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=66
+[2025.04.17-15.34.59:555][922]LogInit: FAudioDevice initialized with ID 66.
+[2025.04.17-15.34.59:555][922]LogAudio: Display: Audio Device (ID: 66) registered with world 'MainMenu'.
+[2025.04.17-15.34.59:555][922]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 66
+[2025.04.17-15.34.59:558][922]LogLoad: Game class is 'GM_Menu_C'
+[2025.04.17-15.34.59:558][922]LogWorld: Bringing World /Game/Menu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.04.17-11.34.59
+[2025.04.17-15.34.59:558][922]LogWorld: Bringing up level for play took: 0.000326
+[2025.04.17-15.34.59:561][922]LogOnline: OSS: Created online subsystem instance for: :Context_115
+[2025.04.17-15.34.59:562][922]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.04.17-15.34.59:562][922]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.04.17-15.34.59:582][922]PIE: Server logged in
+[2025.04.17-15.34.59:582][922]PIE: Play in editor total start time 0.109 seconds.
+[2025.04.17-15.35.58:467][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-15.35.58:467][915]LogWorld: BeginTearingDown for /Game/Menu/UEDPIE_0_MainMenu
+[2025.04.17-15.35.58:467][915]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.35.58:467][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.35.58:467][915]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.04.17-15.35.58:467][915]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.04.17-15.35.58:470][915]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.17-15.35.58:477][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.35.58:498][915]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.17-15.35.58:498][915]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 66
+[2025.04.17-15.35.58:498][915]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=66
+[2025.04.17-15.35.58:499][915]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=66
+[2025.04.17-15.35.58:504][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-15.35.58:507][915]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.04.17-15.35.58:568][916]LogPlayLevel: Display: Destroying online subsystem :Context_115
+[2025.04.17-15.36.17:609][ 84]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.36.17:609][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.36.17:659][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.04.17-15.36.18:845][212]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.36.18:845][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.36.18:896][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
